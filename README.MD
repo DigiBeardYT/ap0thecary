@@ -1,5 +1,6 @@
 - List of Resources
   - [Fundamentals](#Fundamentals)
+  - {The Five Pillars}(#https://github.com/DFIRmadness/5pillars) - Absolutely one of the BEST starting points for beginners.
     - [Hopper's Roppers](#HoppersRoppers) - Learning courses tailor made for newbies. "Our goal isn't to teach you to hack, our goal is to teach you to learn".
       - [Introduction to Computing Fundamentals](https://www.hoppersroppers.org/course.html)
       - [Essential Skills Bootcamp](https://www.hoppersroppers.org/bootcamp.html)
