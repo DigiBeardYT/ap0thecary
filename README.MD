@@ -193,6 +193,10 @@
     - Zeltser | Tips on creating and managing new IT products
       - https://zeltser.com/new-product-management-tips/
   - [Git](#Git)
+    - Udemy | Git Started with Github
+      - https://www.udemy.com/course/git-started-with-github/
+    - Atlassian | Getting Git Right
+      - https://www.atlassian.com/git
   - [SQL Injection](#SqlInjection)
   - [SQLite](#SQLite)
   - [XSS](#XSS)
