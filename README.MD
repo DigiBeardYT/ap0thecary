@@ -126,6 +126,10 @@
     - SANS | NMAP Cheatsheet
       - https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blte37ba962036d487b/5eb08aae26a7212f2db1c1da/NmapCheatSheetv1.1.pdf
   - [Google Dorking](#GoogleDorking)
+    - ahrefs.com | Google-Fu
+      - https://ahrefs.com/blog/google-advanced-search-operators/
+    - SANS | Google Hacking + Defense Cheatsheet
+      - https://www.sans.org/security-resources/GoogleCheatSheet.pdf?msc=Cheat+Sheet+Blog
   - [Powershell](#Powershell)
   - [Scripting](#Scripting)
   - [Python](#Python)
