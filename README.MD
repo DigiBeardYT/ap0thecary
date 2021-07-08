@@ -142,6 +142,22 @@
     - SANS | PowerShell Get-Win Event
       - https://wiki.sans.blue/Tools/pdfs/Get-WinEvent.pdf
   - [Scripting](#Scripting)
+    - Udemy | Regex Academy - An Intro to Text Parsing Sorcery
+      - https://www.udemy.com/course/regex-academy-an-introduction-to-text-parsing-sorcery/
+    - Udemy | Bash Scripting Courses
+      - https://www.udemy.com/courses/search/?price=price-free&q=bash+scripting&sort=relevance
+    - Regex One
+      - https://regexone.com/
+    - Regex Crossword
+      - https://regexcrossword.com/
+    - Tutorials Point | JSON Tutorial
+      - https://www.tutorialspoint.com/json/index.htm
+    - Tutorials Point | VBS Tutorial
+      - https://www.tutorialspoint.com/vbscript/index.htm
+    - Clark Center | Secure Scripting
+      - https://clark.center/details/melissajanedark/e2255ac9-f450-4edd-bdca-24588cb98f36
+    - Tutorials Point | NASM Assembly Programming Tutorials
+      - https://www.tutorialspoint.com/assembly_programming/index.htm
   - [Python](#Python)
   - [Soft Skills](#SoftSkills)
   - [Git](#Git)
