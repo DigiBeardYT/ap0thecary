@@ -159,6 +159,18 @@
     - Tutorials Point | NASM Assembly Programming Tutorials
       - https://www.tutorialspoint.com/assembly_programming/index.htm
   - [Python](#Python)
+    - Udemy | Free Python Courses
+      - https://www.udemy.com/topic/python/free/
+    - Real Python | Free Resources
+      - https://realpython.com/
+    - Python Institute | Python Essentials
+      - https://pythoninstitute.org/free-python-courses/
+    - Hakin9 | Free Python Resources
+      - https://hakin9.org/list-of-free-python-resources/
+    - SANS | Python 3 Essentials Cheatsheet
+      - https://www.sans.org/blog/sans-cheat-sheet-python-3/?msc=Cheat+Sheet+Blog  
+    - SANS | Scapy Cheatsheet
+      - https://wiki.sans.blue/Tools/pdfs/ScapyCheatSheet_v0.2.pdf
   - [Soft Skills](#SoftSkills)
   - [Git](#Git)
   - [SQL Injection](#SqlInjection)
