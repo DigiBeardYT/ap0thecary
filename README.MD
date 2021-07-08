@@ -200,7 +200,13 @@
   - [SQL Injection](#SqlInjection)
     - PenTestMonkey | SQL Injection Cheatsheet
       - http://pentestmonkey.net/category/cheat-sheet/sql-injection
-  - [SQLite](#SQLite)
+  - [SQlite](#SQlite)
+    - SQlite Tutorial
+      - https://www.sqlitetutorial.net/
+    - SANS | SQlite Pocket Reference
+      - https://digital-forensics.sans.org/media/SQlite-PocketReference-final.pdf
+    - UnicornsAsFuel | Cheatsheet
+      - https://github.com/unicornsasfuel/sqlite_sqli_cheat_sheet
   - [XSS](#XSS)
   - [Penetration Testing](#PenetrationTesting)
   - [Privilege Escalation](#PrivilegeEscalation)
