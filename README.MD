@@ -172,6 +172,26 @@
     - SANS | Scapy Cheatsheet
       - https://wiki.sans.blue/Tools/pdfs/ScapyCheatSheet_v0.2.pdf
   - [Soft Skills](#SoftSkills)
+    - Zeltser | Getting the right IT job Tips
+      - https://zeltser.com/getting-the-right-it-job-tips/
+    - Zeltser | Tips for troubleshooting Human Communications
+      - https://zeltser.com/human-communications-cheat-sheet/
+    - Zeltser | Writing Tips for IT Pros
+      - https://zeltser.com/writing-tips-for-it-professionals/
+    - Zeltser | Tips on Creating a Strong Cybersecurity Assessment
+      - https://zeltser.com/security-assessment-report-cheat-sheet/
+    - Zeltser | Critical Log Review Checklist
+      - https://zeltser.com/security-incident-log-review-checklist/
+    - Zeltser | Security Architecture - Internet Applications Cheatsheet
+      - https://zeltser.com/security-architecture-cheat-sheet/
+    - Zeltser | Security Incident Checklist for Server Admins
+      - https://zeltser.com/security-incident-survey-cheat-sheet/
+    - Zeltser | Network DDoS Incident Response Cheatsheet
+      - https://zeltser.com/ddos-incident-cheat-sheet/
+    - Zeltser | Information Security Cheatsheet
+      - https://zeltser.com/cheat-sheets/
+    - Zeltser | Tips on creating and managing new IT products
+      - https://zeltser.com/new-product-management-tips/
   - [Git](#Git)
   - [SQL Injection](#SqlInjection)
   - [SQLite](#SQLite)
