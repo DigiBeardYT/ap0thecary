@@ -121,6 +121,10 @@
     - SANS | TCPDUMP Cheat Sheet
       - https://www.sans.org/security-resources/tcpip.pdf?msc=Cheat+Sheet+Blog
   - [Nmap](#Nmap)
+    - HackerTarget.com | NMAP Quick Reference
+      - https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/
+    - SANS | NMAP Cheatsheet
+      - https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blte37ba962036d487b/5eb08aae26a7212f2db1c1da/NmapCheatSheetv1.1.pdf
   - [Google Dorking](#GoogleDorking)
   - [Powershell](#Powershell)
   - [Scripting](#Scripting)
