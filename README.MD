@@ -69,6 +69,30 @@
     - [Fortinet](#Fortinet)
       - [Resources for Cybersecurity Professionals](https://www.fortinet.com/training/cybersecurity-professionals.html)
   - [Linux](#Linux)
+    - The Linux Foundation | Introduction to Linux
+      - https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/
+    - Udemy | Free Linux Courses
+      - https://www.udemy.com/topic/linux/free/
+    - Udacity | Linux Command Line Basics
+      - https://www.udacity.com/course/linux-command-line-basics--ud595
+    - FullStackAcademy | Linux Command Line for Beginners
+      - https://cyber.fullstackacademy.com/prepare/cyber-onramp
+    - SANS | Linux Shell Survival Guide
+      - https://digital-forensics.sans.org/media/linux-shell-survival-guide.pdf?msc=Cheat+Sheet+Blog
+    - SANS | Linux CLI 101
+      - https://wiki.sans.blue/Tools/pdfs/LinuxCLI101.pdf
+    - SANS | Linux CLI
+      - https://wiki.sans.blue/Tools/pdfs/LinuxCLI.pdf
+    - Cisco Networking Academy | Linux Essentials
+      - https://www.netacad.com/courses/os-it/ndg-linux-essentials
+    - Cisco Networking Academy | NDG Linux Unhatched
+      - https://www.netacad.com/courses/os-it/ndg-linux-unhatched
+    - Highon.coffee | Command Reference
+      - https://highon.coffee/blog/linux-commands-cheat-sheet/ 
+    - Kali Linux Cheat Sheet
+      - https://i.redd.it/9bu827i9tr751.jpg
+    - Kali Linux | Revealed
+      - https://kali.training/
   - [Networking](#Networking)
   - [Nmap](#Nmap)
   - [Google Dorking](#GoogleDorking)
