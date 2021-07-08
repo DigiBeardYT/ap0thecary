@@ -208,6 +208,8 @@
     - UnicornsAsFuel | Cheatsheet
       - https://github.com/unicornsasfuel/sqlite_sqli_cheat_sheet
   - [XSS](#XSS)
+    - f-Secure | Getting real with XSS
+      - https://labs.f-secure.com/blog/getting-real-with-xss/
   - [Penetration Testing](#PenetrationTesting)
   - [Privilege Escalation](#PrivilegeEscalation)
   - [OSINT](#OSINT)
