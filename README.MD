@@ -131,6 +131,16 @@
     - SANS | Google Hacking + Defense Cheatsheet
       - https://www.sans.org/security-resources/GoogleCheatSheet.pdf?msc=Cheat+Sheet+Blog
   - [Powershell](#Powershell)
+    - MSDN - Getting Started w/ MS PowerShell
+      - https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-PowerShell 
+    - PowerShell Tutorial
+      - http://powershelltutorial.net/
+    - SANS | PowerShell Cheatsheet
+      - https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltf146e4f361db3938/5e34a7bc946d717e2eab6139/power-shell-cheat-sheet-v41.pdf
+    - SANS | PowerShell Primer
+      - https://wiki.sans.blue/Tools/pdfs/PowerShell.pdf
+    - SANS | PowerShell Get-Win Event
+      - https://wiki.sans.blue/Tools/pdfs/Get-WinEvent.pdf
   - [Scripting](#Scripting)
   - [Python](#Python)
   - [Soft Skills](#SoftSkills)
