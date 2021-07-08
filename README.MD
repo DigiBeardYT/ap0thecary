@@ -94,6 +94,32 @@
     - Kali Linux | Revealed
       - https://kali.training/
   - [Networking](#Networking)
+    - ITMasters.edu | Short Course - Computer Networking Fundamentals
+      - https://www.itmasters.edu.au/free-short-course-computer-network-fundamentals/
+    - Udemy | Free Networking Courses
+      - https://www.udemy.com/courses/search/?price=price-free&q=networking&sort=relevance&src=sac
+    - edX | Network + Security Foundations
+      - https://www.edx.org/course/network-security-foundations
+    - Reddit | Quick HTTP Status Code Guide
+      - https://i.redd.it/5kq9n098tbr41.jpg
+    - Portswigger | Web Security Academy
+      - https://portswigger.net/web-security
+    - FutureLearn | Basics of Network Security
+      - https://www.futurelearn.com/courses/network-security-basics
+    - edX | Network Security
+      - https://www.edx.org/course/network-security-2
+    - Teex | Network Assurance
+      - https://teex.org/class/AWR138/
+    - Juniper Networks | Learning Portal
+      - https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=FREE-JUNIPER-TRAINING-HOME
+    - OpenLearn | Hands-On Lab: Discovering Computer Networks
+      - https://www.open.edu/openlearn/science-maths-technology/computing-ict/discovering-computer-networks-hands-on-the-open-networking-lab/content-section-overview?active-tab=description-tab
+    - Professor Messer | Network+ Series 
+      - https://www.youtube.com/playlist?list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd
+    - SANS | IPv6 Pocket Guide
+      - https://www.sans.org/security-resources/ipv6_tcpip_pocketguide.pdf?msc=Cheat+Sheet+Blog
+    - SANS | TCPDUMP Cheat Sheet
+      - https://www.sans.org/security-resources/tcpip.pdf?msc=Cheat+Sheet+Blog
   - [Nmap](#Nmap)
   - [Google Dorking](#GoogleDorking)
   - [Powershell](#Powershell)
