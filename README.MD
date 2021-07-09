@@ -87,7 +87,7 @@
       - https://www.netacad.com/courses/os-it/ndg-linux-essentials
     - Cisco Networking Academy | NDG Linux Unhatched
       - https://www.netacad.com/courses/os-it/ndg-linux-unhatched
-    - Highon.coffee | Command Reference
+    - HighOn.Coffee | Command Reference
       - https://highon.coffee/blog/linux-commands-cheat-sheet/ 
     - Kali Linux Cheat Sheet
       - https://i.redd.it/9bu827i9tr751.jpg
@@ -211,6 +211,24 @@
     - f-Secure | Getting real with XSS
       - https://labs.f-secure.com/blog/getting-real-with-xss/
   - [Penetration Testing](#PenetrationTesting)
+    - HighOn.Coffee | LFI (Local File Inclusion) Cheatsheet
+      - https://highon.coffee/blog/lfi-cheat-sheet/
+    - HighOn.Coffee | Penetration Testing Tools Cheatsheet
+      - https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
+    - SANS | Windows Intrusion Discovery Cheatsheet 3.0
+      - https://pen-testing.sans.org/retrieve/windows-cheat-sheet.pdf?msc=Cheat+Sheet+Blog
+    - SANS | Linux Intrusion Discovery Cheatsheet 2.0
+      - https://pen-testing.sans.org/retrieve/linux-cheat-sheet.pdf?msc=Cheat+Sheet+Blog
+    - SANS | Win2K Intrusion Discovery Cheatsheet 2.0
+      - https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltd6fa777a3215f34a/5eb08aae08d37e6d82ef77fe/win2ksacheatsheet.pdf
+    - Hackers Arise | Ethical Hacking Resources
+      - https://www.hackers-arise.com/
+    - Security Tube | Cybersecurity Resources
+      - http://www.securitytube.net/
+    - ITMasters.edu | Short Course - Penetration Testing
+      - https://www.itmasters.edu.au/free-short-course-pen-testing/
+    - Udemy | Free Hacking Courses
+      - https://www.udemy.com/courses/search/?q=hacking&p=1&price=price-free 
   - [Privilege Escalation](#PrivilegeEscalation)
   - [OSINT](#OSINT)
   - [Shodan](#Shodan)
