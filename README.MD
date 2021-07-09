@@ -230,6 +230,12 @@
     - Udemy | Free Hacking Courses
       - https://www.udemy.com/courses/search/?q=hacking&p=1&price=price-free 
   - [Privilege Escalation](#PrivilegeEscalation)
+    - Ignite Technologies | Privilege Escalation
+      - https://github.com/Ignitetechnologies/Privilege-Escalation
+    - S1ckB0y1337 | Active Directory Exploitation Cheatsheet
+      - https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
+    - SANS | Pivot Cheatsheet
+      - https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blt0f228a4b9a1165e4/5ef3d602395b554cb3523e7b/pivot-cheat-sheet-v1.0.pdf
   - [OSINT](#OSINT)
   - [Shodan](#Shodan)
   - [DFIR](#DFIR)
