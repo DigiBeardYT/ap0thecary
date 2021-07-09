@@ -237,6 +237,22 @@
     - SANS | Pivot Cheatsheet
       - https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blt0f228a4b9a1165e4/5ef3d602395b554cb3523e7b/pivot-cheat-sheet-v1.0.pdf
   - [OSINT](#OSINT)
+    - SANS | OSINT Resources
+      - https://www.sans.org/blog/-must-have-free-resources-for-open-source-intelligence-osint-/
+    - OSINT Framework | Tools + Resources
+      - https://osintframework.com/
+    - OSINT.link | Resources Portal
+      - https://osint.link/
+    - OSINT Mini | Short Courses on Open Source Intelligence
+      -  https://osint-i1.thinkific.com/courses/osintmini
+    - Hackers Arise | OSINT Resources
+      - https://www.hackers-arise.com/osint
+    - OSINT Curious Project | 10 Minute Tips
+      - https://www.youtube.com/playlist?list=PL423I_gHbWUUOs09899rex4t2l5py9YIk
+    - OSINT Challenge | Mock Investigation Scenario
+      - https://osint-i1.thinkific.com/courses/osint-challenge
+    - OSINTCurio.us | Creating Research Accounts for OSINT Investigations
+      - https://osintcurio.us/2020/08/17/creating-research-accounts-for-osint-investigations/   
   - [Shodan](#Shodan)
   - [DFIR](#DFIR)
   - [CTF's](#CTFs)
