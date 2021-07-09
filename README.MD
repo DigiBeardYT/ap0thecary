@@ -254,5 +254,9 @@
     - OSINTCurio.us | Creating Research Accounts for OSINT Investigations
       - https://osintcurio.us/2020/08/17/creating-research-accounts-for-osint-investigations/   
   - [Shodan](#Shodan)
+    - Javier Olmedo | Shodan Filters
+      - https://github.com/JavierOlmedo/shodan-filters
+    - Lothos612 | Shodan Cheatsheet
+      - https://github.com/lothos612/shodan
   - [DFIR](#DFIR)
   - [CTF's](#CTFs)
