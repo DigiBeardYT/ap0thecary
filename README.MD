@@ -416,8 +416,37 @@
       - https://teex.org/class/AWR169/
     - Microsoft | Improve Incident Response Alerting on Azure | [IR]
       - https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/
-
   - [CTF's](#CTFs)
+    - CTFLearn
+      - https://ctflearn.com/
+    - CTF.Live
+      - https://www.ctf.live/
+    - TryHackMe
+      - https://tryhackme.com/
+    - CyberDefenders | Boss of the SOC
+      - https://cyberdefenders.org/
+    - Corelight CTF
+      - https://www3.corelight.com/l/420832/2020-03-31/lcxk2q
+    - Champlain College DFIR CTF
+      - https://champdfa-ccsc-sp20.ctfd.io/
+    - NW3C CTF Challenges
+      - https://nw3.ctfd.io/
+    - Analyst Unknown Cyber Ranges
+      - https://aucr.io/
+    - HackTale
+      - https://www.hacktale.com/
+    - stuxnet999 | MemLabs
+      - https://github.com/stuxnet999/MemLabs
+    - Magnet Forensics Weekly CTF Challenge
+      - https://www.magnetforensics.com/blog/magnet-weekly-ctf-challenge
+    - DFIR Madness | The Stolen Szechuan Sauce
+      - https://dfirmadness.com/the-stolen-szechuan-sauce/
+    - Reverse Engineering Challenges
+      - https://challenges.re/
+    - Incident Response Challenge
+      - https://incident-response-challenge.com/
+    - PCAP Analysis Exercises
+      - http://www.malware-traffic-analysis.net/training-exercises.html
   - [Binary Exploitation]
     - RPISEC | Modern Binary Exploitation Github Repo
       - https://github.com/RPISEC/MBE
