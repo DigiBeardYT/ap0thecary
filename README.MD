@@ -328,3 +328,8 @@
       - Begin.re | Reverse Engineering for Beginmers
   - [DFIR](#DFIR)
   - [CTF's](#CTFs)
+  - [Binary Exploitation]
+    - RPISEC | Modern Binary Exploitation Github Repo
+      - https://github.com/RPISEC/MBE
+    - malrev | Adanced Binary Deobfuscation
+      - https://github.com/malrev/ABD
