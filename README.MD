@@ -326,7 +326,97 @@
       - maddiestone | Android App Reverse Engineering Github Repo
         - https://maddiestone.github.io/AndroidAppRE/
       - Begin.re | Reverse Engineering for Beginmers
-  - [DFIR](#DFIR)
+        - https://www.begin.re/
+      - MalWerewolf | Shellcode Deobfuscation
+        - https://www.youtube.com/playlist?list=PLt_Hvzh8oeR4EZygspRtpPDixEWmvqcau
+  - [DFIR] - Digital Forensics[DF] / Incident Response[IR]
+    - SANS | DF Cheatsheets | [DF]
+      - https://digital-forensics.sans.org/community/cheat-sheets?msc=Cheat+Sheet+Blog 
+    - Teex | Digital Forensics Basics Class | [DF]
+      - https://teex.org/class/AWR139/
+    - edX | Computer Forensics Course | [DF]
+      - https://www.edx.org/course/computer-forensics
+    - Hackers Arise | Digital Forensics Course | [DF]
+      - https://www.hackers-arise.com/forensics
+    - Hal Pomeranz | Linux Forensics Training | [DF]
+      - https://archive.org/details/HalLinuxForensics/mode/2up
+    - Circl.lu | Digital Forensics Training Materials | [DF]
+      - https://www.circl.lu/services/forensic-training-materials/
+    - Ryan Chapman | Cyber Forensics Workshop Video Playlist | [DF]
+      - https://www.youtube.com/playlist?list=PLt_Hvzh8oeR5S27UaoKDx2qqYZcpokGL5
+    - 13Cubed | Introduction to Windows Forensics Video Playlist [DF] 
+      - https://www.youtube.com/playlist?list=PLlv3b9B16ZadqDQH0lTRO4kqn2P1g9Mve
+    - 13Cubed - Email Header Analysis and Forensic Investigation | [DF]
+      - https://www.youtube.com/watch?v=nK5QpGSBR8c
+    - eForensics Magazine | Free Courses | [DF]
+      - https://eforensicsmag.com/category/free-course-content/
+    - ITMasters | Digital Forensics Short Course | [DF]
+       - https://www.itmasters.edu.au/free-short-course-digital-forensics/
+    - RJC497 | IoT Digital Forensics Course Github Repo | [DF]
+       - https://github.com/RJC497/IoT-Digital-Forensics-Course
+    - 13Cubed – Introduction to Memory Forensics | [DF]
+       - https://www.youtube.com/playlist?list=PLlv3b9B16Zaf-uDlgouB0DMiPNYU_sJFN
+    - Open Learn | Digital Forensics Course | [DF]
+       - https://www.open.edu/openlearn/science-maths-technology/digital-forensics/content-section-0?active-tab=description-tab
+    - HTCIA | Free Forensics Training | [DF]
+       - https://htcia.org/free-courses/
+    - Hackers Arise | Network Forensics | [DF]
+      - https://www.hackers-arise.com/network-forensics-1
+    - BlackBag Tech | Mobilyze Tool Training [DF]
+      - https://www.blackbagtech.com/training/courses/mobilyze-tool-training/
+    - AboutDFIR | Timeline Explorer | [DF]
+      - https://aboutdfir.com/toolsandartifacts/windows/ez-tools/timeline-explorer/
+    - AboutDFIR | Registry Explorer/RECmd [DF]
+      - https://aboutdfir.com/toolsandartifacts/windows/registry-explorer-recmd/
+    - AboutDFIR | New users guide to KAPE| [DF]
+      - https://aboutdfir.com/toolsandartifacts/windows/ez-tools/kape/
+    - SANS | Eric Zimmerman's Digital Forensics CLI Tool Cheatsheet | [DF]
+      - https://digital-forensics.sans.org/media/EricZimmermanCommandLineToolsCheatSheet-v1.0.pdf?msc=Cheat+Sheet+Blog
+    - SANS | Hex -> Regex Forensics Cheatsheet | [DF]
+      - https://digital-forensics.sans.org/media/hex_file_and_regex_cheat_sheet.pdf?msc=Cheat+Sheet+Blog
+    - SANS | Windows → Unix Cheatsheet | [DF]
+      - https://digital-forensics.sans.org/media/windows_to_unix_cheatsheet.pdf?msc=Cheat+Sheet+Blog
+    - SANS | Memory Forensics Cheatsheet | [DF]
+      - https://digital-forensics.sans.org/media/volatility-memory-forensics-cheat-sheet.pdf?msc=Cheat+Sheet+Blog
+    - SANS | Plaso Filtering Cheatsheet | [DF]
+      - https://digital-forensics.sans.org/media/Plaso-Cheat-Sheet.pdf?msc=Cheat+Sheet+Blog
+    - SANS | SIFT Workstation Cheatsheet | [DF]
+      - https://digital-forensics.sans.org/media/sift_cheat_sheet.pdf?msc=Cheat+Sheet+Blog
+    - SANS | Mac/iOS HFS+ Filesystem Reference Sheet | [DF]
+      - https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blt61c336e02577e733/5eb0940e248a28605479ccf0/FOR518_APFS_CheatSheet_012020.pdf
+    - Attack IQ Academy | [IR]
+      - https://academy.attackiq.com/
+    - MITRE | ATT&CK Training | [IR]
+      - https://attack.mitre.org/resources/training/
+    - Wild West Hacking Fest | Getting Started in Security w/ BIHS & MITRE ATT&CK [IR]
+      - https://wildwesthackinfest.com/online-training/getting-started-in-security-with-bhis-and-mitre-attck-november-0-395-16-hours/
+    - Ryan Chapman | Hands-On Computer Security + Incident Response | [IR]
+      - https://www.youtube.com/playlist?list=PLt_Hvzh8oeR5wv7Aj8x0hsJMMoZoc1ljY
+    - Incident Response | Playbooks | [IR]
+      - https://www.incidentresponse.com/playbooks/
+    - Sam Browne – Incident Response | [IR]
+      - https://samsclass.info/152/152_F20.shtml
+    - edX | Planning a Security Incident Response | [IR]
+      - https://www.edx.org/course/planning-a-security-incident-response-2
+    - ITMasters | Information Security Incident Handling Course | [IR]
+      - https://www.itmasters.edu.au/free-short-course-information-security-incident-handling/
+    - Applied Incident Response | Free Resources for Incident Response Pros | [IR]
+      - https://www.appliedincidentresponse.com/resources/
+    - CyberTriage | Incident Response Training | [IR]
+      - https://www.cybertriage.com/training/
+    - edX | Threat Detection: Planning for a Secure Enterprise | [IR]
+      - https://www.edx.org/course/threat-detection-planning-for-a-secure-enterpris-2
+    - Cisco | Threat Hunting Workshops
+      - https://www.cisco.com/c/en/us/products/security/security-clinics-workshops-events.html
+    - Threat Hunting: How to Gain Hands-On Cybersecurity Experience with Security Onion | [IR]
+      - https://www.youtube.com/watch?v=r9oPsJh7LDI
+    - Incident Handling and Threat Hunting with Security Onion | [IR]
+      - https://www.youtube.com/watch?v=5FqILXqkh94
+    - Teex | Cyber Incident Analysis and Response | [IR]
+      - https://teex.org/class/AWR169/
+    - Microsoft | Improve Incident Response Alerting on Azure | [IR]
+      - https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/
+
   - [CTF's](#CTFs)
   - [Binary Exploitation]
     - RPISEC | Modern Binary Exploitation Github Repo
