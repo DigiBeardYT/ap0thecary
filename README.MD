@@ -258,5 +258,47 @@
       - https://github.com/JavierOlmedo/shodan-filters
     - Lothos612 | Shodan Cheatsheet
       - https://github.com/lothos612/shodan
+  - [Malware Analysis]
+    - Rshipp | Awesome Malware Analysis Github Repo
+      - https://github.com/rshipp/awesome-malware-analysis
+    - Zeltser | Analyzing Malicious Documents Guide
+      - https://zeltser.com/analyzing-malicious-documents/
+    - SANS | Analyzing Malicious Documents
+      - https://digital-forensics.sans.org/media/analyzing-malicious-document-files.pdf?msc=Cheat+Sheet+Blog
+    - Patrick Wardle | Free book on "The Art of Mac Malware"
+      - https://taomm.org/
+    - Sam Browne | Practical Malware Analysis
+      - https://samsclass.info/126/126_F20.shtml
+    - ActiveCounterMeasures.com | Malware of the Day
+      - https://www.activecountermeasures.com/category/malware-of-the-day/
+    - Malware Analysis | Noob2Ninja Playlist
+      - https://www.youtube.com/playlist?list=PLiFO-R_BI-kAqDPqtnOq2n70mtAZ6xg5N
+    - Malware Reverse Engineering Handbook
+      - https://ccdcoe.org/library/publications/malware-reverse-engineering-handbook/
+    - University of Cincinatti | Malware Analysis Class
+      - https://class.malware.re/
+    - Clark.center | Malware Analysis using VM Introspection + Memory Forensics
+      - https://clark.center/details/goldenrichard/11053447-1b48-4d20-8a87-df52dfa95338
+    - HackSploit | Malware Analysis Bootcamp Video
+      - https://www.youtube.com/watch?v=uHhKkLwT4Mk&list=PLBf0hzazHTGMSlOI2HZGc08ePwut6A2Io&index=4
+    - RPISEC | Malware Analysis Github Repo
+      - https://github.com/RPISEC/Malware
+    - OpenRCE | Malware Analysis Training
+      - https://github.com/OpenRCE/Malware-Analysis-Training
+    - 13Cubed | Introduction to Malware Analysis Videos
+      - https://www.youtube.com/playlist?list=PLlv3b9B16ZafLdkYgJTR5jRQdY9CJJtTZ
+    - Zeltser | Introduction to Malware Analysis Webcast
+      - https://zeltser.com/malware-analysis-webcast/
+    - Louis Arnold | Malware Analysis Lab Walktrhough Videos
+      - https://www.youtube.com/playlist?list=PLsZo7Kc8eS0O8Q2h8SBYiN0XIMisvLq5g
+    - Practical Malware Analysis Essentials for Incident Responders Video
+      - https://www.youtube.com/watch?v=20xYpxe8mBg
+    - SANS | Malware Analysis Cheatsheets
+      - http://sans.org/blog/-must-have-free-resources-for-malware-analysis/
+    - SANS | REMnux Usage Tips for Malware Analysis
+      - https://digital-forensics.sans.org/media/remnux-malware-analysis-tips.pdf?msc=Cheat+Sheet+Blog
+    - SANS | Rekall Memory Forensics Cheatsheet
+      - https://digital-forensics.sans.org/media/rekall-memory-forensics-cheatsheet.pdf?msc=Cheat+Sheet+Blog
+    - [Binary Analysis]
   - [DFIR](#DFIR)
   - [CTF's](#CTFs)
