@@ -299,6 +299,32 @@
       - https://digital-forensics.sans.org/media/remnux-malware-analysis-tips.pdf?msc=Cheat+Sheet+Blog
     - SANS | Rekall Memory Forensics Cheatsheet
       - https://digital-forensics.sans.org/media/rekall-memory-forensics-cheatsheet.pdf?msc=Cheat+Sheet+Blog
-    - [Binary Analysis]
+    - Cybrary | Reverse Engineering Cheatsheet
+      - https://www.cybrary.it/wp-content/uploads/2017/11/cheat-sheet-reverse-v6.png
+  - [Binary Analysis]
+      - Max Kersten | Binary Analysis Course 
+        - https://maxkersten.nl/binary-analysis-course/
+      - OpenSecurity Training | Introductory Intel x86: Architecture, Assembly, Applications + Alliteration
+        - http://opensecuritytraining.info/IntroX86.html
+      - Davy Wybiral | Intro to x86 Assembly Language Videos
+        - https://www.youtube.com/watch?v=wLXIWKUWpSs&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe
+  - [Reverse Engineering]
+      - SANS | Tips for Reverse Engineering Malicious Code
+        - https://digital-forensics.sans.org/media/reverse-engineering-malicious-code-tips.pdf?msc=Cheat+Sheet+Blog
+      - MalwareUnicorn | Reverse Enginnering Workshop Videos
+        - https://malwareunicorn.org/#/workshops
+      - Z0F | Reverse Engineering Course
+        - https://github.com/0xZ0F/Z0FCourse_ReverseEngineering
+      - FEDvte | Reverse Engineering 101
+        - https://fedvte.usalearning.gov/publiccourses/reverse/index.htm?track=trackingon
+      - Artik.blue | Reverse Enginnering w/ Radare2
+        - https://artik.blue/reversing-radare2-1
+      - Hackers-Arise | Reverse Engineering Malware
+        - https://www.hackers-arise.com/reverse-engineering-malware
+      - Hackaday | Introduction to Reverse Engineering w/ Ghidra
+        - https://hackaday.io/project/172292-introduction-to-reverse-engineering-with-ghidra
+      - maddiestone | Android App Reverse Engineering Github Repo
+        - https://maddiestone.github.io/AndroidAppRE/
+      - Begin.re | Reverse Engineering for Beginmers
   - [DFIR](#DFIR)
   - [CTF's](#CTFs)
