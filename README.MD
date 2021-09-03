@@ -1,454 +1,64 @@
-- List of Resources
-  - [Fundamentals](#Fundamentals)
-    - [The Five Pillars](https://github.com/DFIRmadness/5pillars) - Absolutely one of the BEST starting points for beginners.
-    - [Hopper's Roppers](#HoppersRoppers) - Learning courses tailor made for newbies. "Our goal isn't to teach you to hack, our goal is to teach you to learn".
-      - [Introduction to Computing Fundamentals](https://www.hoppersroppers.org/course.html)
-      - [Essential Skills Bootcamp](https://www.hoppersroppers.org/bootcamp.html)
-      - [Introduction to Security](https://www.hoppersroppers.org/courseSecurity.html)
-      - [Introduction to Capture The Flag](https://www.hoppersroppers.org/courseCTF.html)
-    - [edX](#edX) - MIT lab Professor Anant Agarwal's platform that offers their courses online for free. He and his colleagues add materials frequently and continue to do so for free provided you're up for the challenges.
-      - [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)
-      - [Cybersecurity Basics: A Hands-On Approach](https://www.edx.org/course/cyber-security-basics-a-hands-on-approach)
-    - [OpenLearn](#OpenLearn) - Open University exists to deliver bite-sized learning experieneces to fit into busy, daily life.
-      - [Introduction to Cybersecurity](https://www.open.edu/openlearn/science-maths-technology/introduction-cyber-security-stay-safe-online/content-section-overview?active-tab=content-tab)
-    - [Cisco Networking Academy](#CiscoNetworkingAcademy)
-      - [Introduction to Cybersecurity Essentials](https://www.netacad.com/courses/security/introduction-cybersecurity)
-      - [Cybersecurity Essentials](https://www.netacad.com/courses/security/cybersecurity-essentials)
-    - [SANS](#SANS)
-       - [SANS - Cyber Ace's Online Tutorials](https://tutorials.cyberaces.org/tutorials.html)
-       - [SANS - Free Resources](https://www.sans.org/free)
-     - [Class Central](#ClassCentral)
-      - [Free Cybersecurity Courses](https://www.classcentral.com/subject/cybersecurity)
-    - [Trailhead](#TrailHead)
-      - [Trailhead Cybersecurity Training](https://trailhead.salesforce.com/cybersecurity/individuals/)
-    - [Black Hills Infosec](#BlacksHillsInfosec)
-      - [30 Things to Get You Started](https://www.blackhillsinfosec.com/30-things-to-get-you-started/)
-    - [Open Security Training](#OpenSecurityTraining)
-      - [Free Training Courses](http://opensecuritytraining.info/Training.html)
-    - [E-Hacking Academy](#EHackingAcademy)
-      - [Free Courses](https://academy.ehacking.net/courses/category/Free)
-    - [IT Masters](#ITMasters)
-      - [Phishing Countermeasures Short Course](https://www.itmasters.edu.au/free-short-course-phishing-countermeasures/)
-      - [Cyber Warfare and Terrorism Short Course](https://www.itmasters.edu.au/free-short-course-cyber-warfare-and-terrorism/)
-      - [Enterprise Cybersecurity Fundamentals Short Course](https://www.itmasters.edu.au/free-short-course-enterprise-cyber-security-fundamentals/)
-    - [Tenable University](#TenableUniversity)
-      - [On-Demand Courses](https://www.tenable.com/education/on-demand-courses)
-    - [IBM](#IBM)
-      - [Security Learning Academy](https://www.securitylearningacademy.com/)
-    - [Palo Alto - Learning Center](#PaloAltoLearningCenter)
-      - [Fundamentals Training](https://www.paloaltonetworks.com/services/education/digital-learning#Fundamental_Training)
-    - [Geek University](#GeekUniversity)
-      - [Courses](https://geek-university.com/courses/)
-    - [Net Instruct](#NetInstruct)
-      - [Courses](https://netinstruct.com/courses)
-    - [Cybering.cc](#Cybering.cc)
-      - [Cybering.cc](https://cybering.cc/)
-    - [Professor Messer IT Training Videos](#ProfessorMesser)
-      - [Training Courses]
-        - [CompTIA 220-1002 A+ Training Course](https://www.youtube.com/watch?v=ChQ18B1hofI&list=PLG49S3nxzAnmwkCAdWUgCFvVK4IxMBTmb)
-        - [CompTIA SY0-601 Security+ Training Course](https://www.youtube.com/watch?v=9NE33fpQuw8&list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8)
-      - [Study Group Playlists]
-        - [CompTIA 220-1002 A+ Study Group Playlist](https://www.youtube.com/watch?v=e5QJLzT3Sz8&list=PLG49S3nxzAnmsZ5J7lwbS4o7a3YtljNuI)
-        - [CompTIA SY0-601 Security+ Study Group Playlist](https://www.youtube.com/playlist?list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy)
-        - [CompTIA Network + Study Group Playlist Archive](https://www.youtube.com/watch?v=22IC6L_gs3k&list=PLG49S3nxzAnmuj4d5TTxrSEyfR-Q84so-)
-    - [Alison](#Alison)
-       - [Network + Security Courses](http://alison.com/courses/network-and-security)
-    - [FutureLearn](FutureLearn)
-      - [An Introduction to Cryptography Course](https://www.futurelearn.com/courses/cryptography)
-      - [An Introduction to Encryption + Cryptography Course](https://www.futurelearn.com/courses/encryption-and-cryptography)
-    - [Portswigger](#PortSwigger)
-      - [Portswigger Web Security Academy](https://portswigger.net/web-security)
-    - [ICS-CERT](#ICS-CERT)
-      - [ICS-CERT Learning Portal](https://us-cert.cisa.gov/ics/Training-Available-Through-ICS-CERT)
-    - [Labtainers](#Labtainers)
-      - [Free Cybersecurity Labs](https://nps.edu/web/c3o/labtainers)
-    - [SoloLearn](#SoloLearn)
-      - [Programming Courses](https://www.sololearn.com/)
-    - [Packt Publishing](#PacktPublishing)
-      - [Packt Workshops](https://courses.packtpub.com/pages/free) Note: Packt allows use of these resources for 365 days
-    - [Fortinet](#Fortinet)
-      - [Resources for Cybersecurity Professionals](https://www.fortinet.com/training/cybersecurity-professionals.html)
-  - [Linux](#Linux)
-    - The Linux Foundation | Introduction to Linux
-      - https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/
-    - Udemy | Free Linux Courses
-      - https://www.udemy.com/topic/linux/free/
-    - Udacity | Linux Command Line Basics
-      - https://www.udacity.com/course/linux-command-line-basics--ud595
-    - FullStackAcademy | Linux Command Line for Beginners
-      - https://cyber.fullstackacademy.com/prepare/cyber-onramp
-    - SANS | Linux Shell Survival Guide
-      - https://digital-forensics.sans.org/media/linux-shell-survival-guide.pdf?msc=Cheat+Sheet+Blog
-    - SANS | Linux CLI 101
-      - https://wiki.sans.blue/Tools/pdfs/LinuxCLI101.pdf
-    - SANS | Linux CLI
-      - https://wiki.sans.blue/Tools/pdfs/LinuxCLI.pdf
-    - Cisco Networking Academy | Linux Essentials
-      - https://www.netacad.com/courses/os-it/ndg-linux-essentials
-    - Cisco Networking Academy | NDG Linux Unhatched
-      - https://www.netacad.com/courses/os-it/ndg-linux-unhatched
-    - HighOn.Coffee | Command Reference
-      - https://highon.coffee/blog/linux-commands-cheat-sheet/ 
-    - Kali Linux Cheat Sheet
-      - https://i.redd.it/9bu827i9tr751.jpg
-    - Kali Linux | Revealed
-      - https://kali.training/
-  - [Networking](#Networking)
-    - ITMasters.edu | Short Course - Computer Networking Fundamentals
-      - https://www.itmasters.edu.au/free-short-course-computer-network-fundamentals/
-    - Udemy | Free Networking Courses
-      - https://www.udemy.com/courses/search/?price=price-free&q=networking&sort=relevance&src=sac
-    - edX | Network + Security Foundations
-      - https://www.edx.org/course/network-security-foundations
-    - Reddit | Quick HTTP Status Code Guide
-      - https://i.redd.it/5kq9n098tbr41.jpg
-    - Portswigger | Web Security Academy
-      - https://portswigger.net/web-security
-    - FutureLearn | Basics of Network Security
-      - https://www.futurelearn.com/courses/network-security-basics
-    - edX | Network Security
-      - https://www.edx.org/course/network-security-2
-    - Teex | Network Assurance
-      - https://teex.org/class/AWR138/
-    - Juniper Networks | Learning Portal
-      - https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=FREE-JUNIPER-TRAINING-HOME
-    - OpenLearn | Hands-On Lab: Discovering Computer Networks
-      - https://www.open.edu/openlearn/science-maths-technology/computing-ict/discovering-computer-networks-hands-on-the-open-networking-lab/content-section-overview?active-tab=description-tab
-    - Professor Messer | Network+ Series 
-      - https://www.youtube.com/playlist?list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd
-    - SANS | IPv6 Pocket Guide
-      - https://www.sans.org/security-resources/ipv6_tcpip_pocketguide.pdf?msc=Cheat+Sheet+Blog
-    - SANS | TCPDUMP Cheat Sheet
-      - https://www.sans.org/security-resources/tcpip.pdf?msc=Cheat+Sheet+Blog
-  - [Nmap](#Nmap)
-    - HackerTarget.com | NMAP Quick Reference
-      - https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/
-    - SANS | NMAP Cheatsheet
-      - https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blte37ba962036d487b/5eb08aae26a7212f2db1c1da/NmapCheatSheetv1.1.pdf
-  - [Google Dorking](#GoogleDorking)
-    - ahrefs.com | Google-Fu
-      - https://ahrefs.com/blog/google-advanced-search-operators/
-    - SANS | Google Hacking + Defense Cheatsheet
-      - https://www.sans.org/security-resources/GoogleCheatSheet.pdf?msc=Cheat+Sheet+Blog
-  - [Powershell](#Powershell)
-    - MSDN - Getting Started w/ MS PowerShell
-      - https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-PowerShell 
-    - PowerShell Tutorial
-      - http://powershelltutorial.net/
-    - SANS | PowerShell Cheatsheet
-      - https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltf146e4f361db3938/5e34a7bc946d717e2eab6139/power-shell-cheat-sheet-v41.pdf
-    - SANS | PowerShell Primer
-      - https://wiki.sans.blue/Tools/pdfs/PowerShell.pdf
-    - SANS | PowerShell Get-Win Event
-      - https://wiki.sans.blue/Tools/pdfs/Get-WinEvent.pdf
-  - [Scripting](#Scripting)
-    - Udemy | Regex Academy - An Intro to Text Parsing Sorcery
-      - https://www.udemy.com/course/regex-academy-an-introduction-to-text-parsing-sorcery/
-    - Udemy | Bash Scripting Courses
-      - https://www.udemy.com/courses/search/?price=price-free&q=bash+scripting&sort=relevance
-    - Regex One
-      - https://regexone.com/
-    - Regex Crossword
-      - https://regexcrossword.com/
-    - Tutorials Point | JSON Tutorial
-      - https://www.tutorialspoint.com/json/index.htm
-    - Tutorials Point | VBS Tutorial
-      - https://www.tutorialspoint.com/vbscript/index.htm
-    - Clark Center | Secure Scripting
-      - https://clark.center/details/melissajanedark/e2255ac9-f450-4edd-bdca-24588cb98f36
-    - Tutorials Point | NASM Assembly Programming Tutorials
-      - https://www.tutorialspoint.com/assembly_programming/index.htm
-  - [Python](#Python)
-    - Udemy | Free Python Courses
-      - https://www.udemy.com/topic/python/free/
-    - Real Python | Free Resources
-      - https://realpython.com/
-    - Python Institute | Python Essentials
-      - https://pythoninstitute.org/free-python-courses/
-    - Hakin9 | Free Python Resources
-      - https://hakin9.org/list-of-free-python-resources/
-    - SANS | Python 3 Essentials Cheatsheet
-      - https://www.sans.org/blog/sans-cheat-sheet-python-3/?msc=Cheat+Sheet+Blog  
-    - SANS | Scapy Cheatsheet
-      - https://wiki.sans.blue/Tools/pdfs/ScapyCheatSheet_v0.2.pdf
-  - [Soft Skills](#SoftSkills)
-    - Zeltser | Getting the right IT job Tips
-      - https://zeltser.com/getting-the-right-it-job-tips/
-    - Zeltser | Tips for troubleshooting Human Communications
-      - https://zeltser.com/human-communications-cheat-sheet/
-    - Zeltser | Writing Tips for IT Pros
-      - https://zeltser.com/writing-tips-for-it-professionals/
-    - Zeltser | Tips on Creating a Strong Cybersecurity Assessment
-      - https://zeltser.com/security-assessment-report-cheat-sheet/
-    - Zeltser | Critical Log Review Checklist
-      - https://zeltser.com/security-incident-log-review-checklist/
-    - Zeltser | Security Architecture - Internet Applications Cheatsheet
-      - https://zeltser.com/security-architecture-cheat-sheet/
-    - Zeltser | Security Incident Checklist for Server Admins
-      - https://zeltser.com/security-incident-survey-cheat-sheet/
-    - Zeltser | Network DDoS Incident Response Cheatsheet
-      - https://zeltser.com/ddos-incident-cheat-sheet/
-    - Zeltser | Information Security Cheatsheet
-      - https://zeltser.com/cheat-sheets/
-    - Zeltser | Tips on creating and managing new IT products
-      - https://zeltser.com/new-product-management-tips/
-  - [Git](#Git)
-    - Udemy | Git Started with Github
-      - https://www.udemy.com/course/git-started-with-github/
-    - Atlassian | Getting Git Right
-      - https://www.atlassian.com/git
-  - [SQL Injection](#SqlInjection)
-    - PenTestMonkey | SQL Injection Cheatsheet
-      - http://pentestmonkey.net/category/cheat-sheet/sql-injection
-  - [SQlite](#SQlite)
-    - SQlite Tutorial
-      - https://www.sqlitetutorial.net/
-    - SANS | SQlite Pocket Reference
-      - https://digital-forensics.sans.org/media/SQlite-PocketReference-final.pdf
-    - UnicornsAsFuel | Cheatsheet
-      - https://github.com/unicornsasfuel/sqlite_sqli_cheat_sheet
-  - [XSS](#XSS)
-    - f-Secure | Getting real with XSS
-      - https://labs.f-secure.com/blog/getting-real-with-xss/
-  - [Penetration Testing](#PenetrationTesting)
-    - HighOn.Coffee | LFI (Local File Inclusion) Cheatsheet
-      - https://highon.coffee/blog/lfi-cheat-sheet/
-    - HighOn.Coffee | Penetration Testing Tools Cheatsheet
-      - https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
-    - SANS | Windows Intrusion Discovery Cheatsheet 3.0
-      - https://pen-testing.sans.org/retrieve/windows-cheat-sheet.pdf?msc=Cheat+Sheet+Blog
-    - SANS | Linux Intrusion Discovery Cheatsheet 2.0
-      - https://pen-testing.sans.org/retrieve/linux-cheat-sheet.pdf?msc=Cheat+Sheet+Blog
-    - SANS | Win2K Intrusion Discovery Cheatsheet 2.0
-      - https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltd6fa777a3215f34a/5eb08aae08d37e6d82ef77fe/win2ksacheatsheet.pdf
-    - Hackers Arise | Ethical Hacking Resources
-      - https://www.hackers-arise.com/
-    - Security Tube | Cybersecurity Resources
-      - http://www.securitytube.net/
-    - ITMasters.edu | Short Course - Penetration Testing
-      - https://www.itmasters.edu.au/free-short-course-pen-testing/
-    - Udemy | Free Hacking Courses
-      - https://www.udemy.com/courses/search/?q=hacking&p=1&price=price-free 
-  - [Privilege Escalation](#PrivilegeEscalation)
-    - Ignite Technologies | Privilege Escalation
-      - https://github.com/Ignitetechnologies/Privilege-Escalation
-    - S1ckB0y1337 | Active Directory Exploitation Cheatsheet
-      - https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
-    - SANS | Pivot Cheatsheet
-      - https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blt0f228a4b9a1165e4/5ef3d602395b554cb3523e7b/pivot-cheat-sheet-v1.0.pdf
-  - [OSINT](#OSINT)
-    - SANS | OSINT Resources
-      - https://www.sans.org/blog/-must-have-free-resources-for-open-source-intelligence-osint-/
-    - OSINT Framework | Tools + Resources
-      - https://osintframework.com/
-    - OSINT.link | Resources Portal
-      - https://osint.link/
-    - OSINT Mini | Short Courses on Open Source Intelligence
-      -  https://osint-i1.thinkific.com/courses/osintmini
-    - Hackers Arise | OSINT Resources
-      - https://www.hackers-arise.com/osint
-    - OSINT Curious Project | 10 Minute Tips
-      - https://www.youtube.com/playlist?list=PL423I_gHbWUUOs09899rex4t2l5py9YIk
-    - OSINT Challenge | Mock Investigation Scenario
-      - https://osint-i1.thinkific.com/courses/osint-challenge
-    - OSINTCurio.us | Creating Research Accounts for OSINT Investigations
-      - https://osintcurio.us/2020/08/17/creating-research-accounts-for-osint-investigations/   
-  - [Shodan](#Shodan)
-    - Javier Olmedo | Shodan Filters
-      - https://github.com/JavierOlmedo/shodan-filters
-    - Lothos612 | Shodan Cheatsheet
-      - https://github.com/lothos612/shodan
-  - [Malware Analysis]
-    - Rshipp | Awesome Malware Analysis Github Repo
-      - https://github.com/rshipp/awesome-malware-analysis
-    - Zeltser | Analyzing Malicious Documents Guide
-      - https://zeltser.com/analyzing-malicious-documents/
-    - SANS | Analyzing Malicious Documents
-      - https://digital-forensics.sans.org/media/analyzing-malicious-document-files.pdf?msc=Cheat+Sheet+Blog
-    - Patrick Wardle | Free book on "The Art of Mac Malware"
-      - https://taomm.org/
-    - Sam Browne | Practical Malware Analysis
-      - https://samsclass.info/126/126_F20.shtml
-    - ActiveCounterMeasures.com | Malware of the Day
-      - https://www.activecountermeasures.com/category/malware-of-the-day/
-    - Malware Analysis | Noob2Ninja Playlist
-      - https://www.youtube.com/playlist?list=PLiFO-R_BI-kAqDPqtnOq2n70mtAZ6xg5N
-    - Malware Reverse Engineering Handbook
-      - https://ccdcoe.org/library/publications/malware-reverse-engineering-handbook/
-    - University of Cincinatti | Malware Analysis Class
-      - https://class.malware.re/
-    - Clark.center | Malware Analysis using VM Introspection + Memory Forensics
-      - https://clark.center/details/goldenrichard/11053447-1b48-4d20-8a87-df52dfa95338
-    - HackSploit | Malware Analysis Bootcamp Video
-      - https://www.youtube.com/watch?v=uHhKkLwT4Mk&list=PLBf0hzazHTGMSlOI2HZGc08ePwut6A2Io&index=4
-    - RPISEC | Malware Analysis Github Repo
-      - https://github.com/RPISEC/Malware
-    - OpenRCE | Malware Analysis Training
-      - https://github.com/OpenRCE/Malware-Analysis-Training
-    - 13Cubed | Introduction to Malware Analysis Videos
-      - https://www.youtube.com/playlist?list=PLlv3b9B16ZafLdkYgJTR5jRQdY9CJJtTZ
-    - Zeltser | Introduction to Malware Analysis Webcast
-      - https://zeltser.com/malware-analysis-webcast/
-    - Louis Arnold | Malware Analysis Lab Walktrhough Videos
-      - https://www.youtube.com/playlist?list=PLsZo7Kc8eS0O8Q2h8SBYiN0XIMisvLq5g
-    - Practical Malware Analysis Essentials for Incident Responders Video
-      - https://www.youtube.com/watch?v=20xYpxe8mBg
-    - SANS | Malware Analysis Cheatsheets
-      - http://sans.org/blog/-must-have-free-resources-for-malware-analysis/
-    - SANS | REMnux Usage Tips for Malware Analysis
-      - https://digital-forensics.sans.org/media/remnux-malware-analysis-tips.pdf?msc=Cheat+Sheet+Blog
-    - SANS | Rekall Memory Forensics Cheatsheet
-      - https://digital-forensics.sans.org/media/rekall-memory-forensics-cheatsheet.pdf?msc=Cheat+Sheet+Blog
-    - Cybrary | Reverse Engineering Cheatsheet
-      - https://www.cybrary.it/wp-content/uploads/2017/11/cheat-sheet-reverse-v6.png
-  - [Binary Analysis]
-      - Max Kersten | Binary Analysis Course 
-        - https://maxkersten.nl/binary-analysis-course/
-      - OpenSecurity Training | Introductory Intel x86: Architecture, Assembly, Applications + Alliteration
-        - http://opensecuritytraining.info/IntroX86.html
-      - Davy Wybiral | Intro to x86 Assembly Language Videos
-        - https://www.youtube.com/watch?v=wLXIWKUWpSs&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe
-  - [Reverse Engineering]
-      - SANS | Tips for Reverse Engineering Malicious Code
-        - https://digital-forensics.sans.org/media/reverse-engineering-malicious-code-tips.pdf?msc=Cheat+Sheet+Blog
-      - MalwareUnicorn | Reverse Enginnering Workshop Videos
-        - https://malwareunicorn.org/#/workshops
-      - Z0F | Reverse Engineering Course
-        - https://github.com/0xZ0F/Z0FCourse_ReverseEngineering
-      - FEDvte | Reverse Engineering 101
-        - https://fedvte.usalearning.gov/publiccourses/reverse/index.htm?track=trackingon
-      - Artik.blue | Reverse Enginnering w/ Radare2
-        - https://artik.blue/reversing-radare2-1
-      - Hackers-Arise | Reverse Engineering Malware
-        - https://www.hackers-arise.com/reverse-engineering-malware
-      - Hackaday | Introduction to Reverse Engineering w/ Ghidra
-        - https://hackaday.io/project/172292-introduction-to-reverse-engineering-with-ghidra
-      - maddiestone | Android App Reverse Engineering Github Repo
-        - https://maddiestone.github.io/AndroidAppRE/
-      - Begin.re | Reverse Engineering for Beginmers
-        - https://www.begin.re/
-      - MalWerewolf | Shellcode Deobfuscation
-        - https://www.youtube.com/playlist?list=PLt_Hvzh8oeR4EZygspRtpPDixEWmvqcau
-  - [DFIR] - Digital Forensics[DF] / Incident Response[IR]
-    - SANS | DF Cheatsheets | [DF]
-      - https://digital-forensics.sans.org/community/cheat-sheets?msc=Cheat+Sheet+Blog 
-    - Teex | Digital Forensics Basics Class | [DF]
-      - https://teex.org/class/AWR139/
-    - edX | Computer Forensics Course | [DF]
-      - https://www.edx.org/course/computer-forensics
-    - Hackers Arise | Digital Forensics Course | [DF]
-      - https://www.hackers-arise.com/forensics
-    - Hal Pomeranz | Linux Forensics Training | [DF]
-      - https://archive.org/details/HalLinuxForensics/mode/2up
-    - Circl.lu | Digital Forensics Training Materials | [DF]
-      - https://www.circl.lu/services/forensic-training-materials/
-    - Ryan Chapman | Cyber Forensics Workshop Video Playlist | [DF]
-      - https://www.youtube.com/playlist?list=PLt_Hvzh8oeR5S27UaoKDx2qqYZcpokGL5
-    - 13Cubed | Introduction to Windows Forensics Video Playlist [DF] 
-      - https://www.youtube.com/playlist?list=PLlv3b9B16ZadqDQH0lTRO4kqn2P1g9Mve
-    - 13Cubed - Email Header Analysis and Forensic Investigation | [DF]
-      - https://www.youtube.com/watch?v=nK5QpGSBR8c
-    - eForensics Magazine | Free Courses | [DF]
-      - https://eforensicsmag.com/category/free-course-content/
-    - ITMasters | Digital Forensics Short Course | [DF]
-       - https://www.itmasters.edu.au/free-short-course-digital-forensics/
-    - RJC497 | IoT Digital Forensics Course Github Repo | [DF]
-       - https://github.com/RJC497/IoT-Digital-Forensics-Course
-    - 13Cubed – Introduction to Memory Forensics | [DF]
-       - https://www.youtube.com/playlist?list=PLlv3b9B16Zaf-uDlgouB0DMiPNYU_sJFN
-    - Open Learn | Digital Forensics Course | [DF]
-       - https://www.open.edu/openlearn/science-maths-technology/digital-forensics/content-section-0?active-tab=description-tab
-    - HTCIA | Free Forensics Training | [DF]
-       - https://htcia.org/free-courses/
-    - Hackers Arise | Network Forensics | [DF]
-      - https://www.hackers-arise.com/network-forensics-1
-    - BlackBag Tech | Mobilyze Tool Training [DF]
-      - https://www.blackbagtech.com/training/courses/mobilyze-tool-training/
-    - AboutDFIR | Timeline Explorer | [DF]
-      - https://aboutdfir.com/toolsandartifacts/windows/ez-tools/timeline-explorer/
-    - AboutDFIR | Registry Explorer/RECmd [DF]
-      - https://aboutdfir.com/toolsandartifacts/windows/registry-explorer-recmd/
-    - AboutDFIR | New users guide to KAPE| [DF]
-      - https://aboutdfir.com/toolsandartifacts/windows/ez-tools/kape/
-    - SANS | Eric Zimmerman's Digital Forensics CLI Tool Cheatsheet | [DF]
-      - https://digital-forensics.sans.org/media/EricZimmermanCommandLineToolsCheatSheet-v1.0.pdf?msc=Cheat+Sheet+Blog
-    - SANS | Hex -> Regex Forensics Cheatsheet | [DF]
-      - https://digital-forensics.sans.org/media/hex_file_and_regex_cheat_sheet.pdf?msc=Cheat+Sheet+Blog
-    - SANS | Windows → Unix Cheatsheet | [DF]
-      - https://digital-forensics.sans.org/media/windows_to_unix_cheatsheet.pdf?msc=Cheat+Sheet+Blog
-    - SANS | Memory Forensics Cheatsheet | [DF]
-      - https://digital-forensics.sans.org/media/volatility-memory-forensics-cheat-sheet.pdf?msc=Cheat+Sheet+Blog
-    - SANS | Plaso Filtering Cheatsheet | [DF]
-      - https://digital-forensics.sans.org/media/Plaso-Cheat-Sheet.pdf?msc=Cheat+Sheet+Blog
-    - SANS | SIFT Workstation Cheatsheet | [DF]
-      - https://digital-forensics.sans.org/media/sift_cheat_sheet.pdf?msc=Cheat+Sheet+Blog
-    - SANS | Mac/iOS HFS+ Filesystem Reference Sheet | [DF]
-      - https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blt61c336e02577e733/5eb0940e248a28605479ccf0/FOR518_APFS_CheatSheet_012020.pdf
-    - Attack IQ Academy | [IR]
-      - https://academy.attackiq.com/
-    - MITRE | ATT&CK Training | [IR]
-      - https://attack.mitre.org/resources/training/
-    - Wild West Hacking Fest | Getting Started in Security w/ BIHS & MITRE ATT&CK [IR]
-      - https://wildwesthackinfest.com/online-training/getting-started-in-security-with-bhis-and-mitre-attck-november-0-395-16-hours/
-    - Ryan Chapman | Hands-On Computer Security + Incident Response | [IR]
-      - https://www.youtube.com/playlist?list=PLt_Hvzh8oeR5wv7Aj8x0hsJMMoZoc1ljY
-    - Incident Response | Playbooks | [IR]
-      - https://www.incidentresponse.com/playbooks/
-    - Sam Browne – Incident Response | [IR]
-      - https://samsclass.info/152/152_F20.shtml
-    - edX | Planning a Security Incident Response | [IR]
-      - https://www.edx.org/course/planning-a-security-incident-response-2
-    - ITMasters | Information Security Incident Handling Course | [IR]
-      - https://www.itmasters.edu.au/free-short-course-information-security-incident-handling/
-    - Applied Incident Response | Free Resources for Incident Response Pros | [IR]
-      - https://www.appliedincidentresponse.com/resources/
-    - CyberTriage | Incident Response Training | [IR]
-      - https://www.cybertriage.com/training/
-    - edX | Threat Detection: Planning for a Secure Enterprise | [IR]
-      - https://www.edx.org/course/threat-detection-planning-for-a-secure-enterpris-2
-    - Cisco | Threat Hunting Workshops
-      - https://www.cisco.com/c/en/us/products/security/security-clinics-workshops-events.html
-    - Threat Hunting: How to Gain Hands-On Cybersecurity Experience with Security Onion | [IR]
-      - https://www.youtube.com/watch?v=r9oPsJh7LDI
-    - Incident Handling and Threat Hunting with Security Onion | [IR]
-      - https://www.youtube.com/watch?v=5FqILXqkh94
-    - Teex | Cyber Incident Analysis and Response | [IR]
-      - https://teex.org/class/AWR169/
-    - Microsoft | Improve Incident Response Alerting on Azure | [IR]
-      - https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/
-  - [CTF's](#CTFs)
-    - CTFLearn
-      - https://ctflearn.com/
-    - CTF.Live
-      - https://www.ctf.live/
-    - TryHackMe
-      - https://tryhackme.com/
-    - CyberDefenders | Boss of the SOC
-      - https://cyberdefenders.org/
-    - Corelight CTF
-      - https://www3.corelight.com/l/420832/2020-03-31/lcxk2q
-    - Champlain College DFIR CTF
-      - https://champdfa-ccsc-sp20.ctfd.io/
-    - NW3C CTF Challenges
-      - https://nw3.ctfd.io/
-    - Analyst Unknown Cyber Ranges
-      - https://aucr.io/
-    - HackTale
-      - https://www.hacktale.com/
-    - stuxnet999 | MemLabs
-      - https://github.com/stuxnet999/MemLabs
-    - Magnet Forensics Weekly CTF Challenge
-      - https://www.magnetforensics.com/blog/magnet-weekly-ctf-challenge
-    - DFIR Madness | The Stolen Szechuan Sauce
-      - https://dfirmadness.com/the-stolen-szechuan-sauce/
-    - Reverse Engineering Challenges
-      - https://challenges.re/
-    - Incident Response Challenge
-      - https://incident-response-challenge.com/
-    - PCAP Analysis Exercises
-      - http://www.malware-traffic-analysis.net/training-exercises.html
-  - [Binary Exploitation]
-    - RPISEC | Modern Binary Exploitation Github Repo
-      - https://github.com/RPISEC/MBE
-    - malrev | Adanced Binary Deobfuscation
-      - https://github.com/malrev/ABD
+List of Resources
+
+[General Computing]
+- The Five Pillars - https://github.com/DFIRmadness/5pillars
+- Introduction to Computing Fundamentals https://www.hoppersroppers.org/course.html
+- Essential Skills Bootcamp - https://www.hoppersroppers.org/bootcamp.html
+- Introduction to Security - https://www.hoppersroppers.org/courseSecurity.html
+- SANS - Cyber Ace's Online Tutorials - https://tutorials.cyberaces.org/tutorials.html
+- SANS - Free Resources - https://www.sans.org/free
+- Fundamentals Training - https://www.paloaltonetworks.com/services/education/digital-learning#Fundamental_Training
+- Professor Messer - CompTIA 220-1002 A+ Training Course - https://www.youtube.com/watch?v=ChQ18B1hofI&list=PLG49S3nxzAnmwkCAdWUgCFvVK4IxMBTmb
+
+[Computer Networking]
+- Alison - Network + Security Courses - http://alison.com/courses/network-and-security
+- ITMasters.edu | Short Course - Computer Networking Fundamentals - https://www.itmasters.edu.au/free-short-course-computer-network-fundamentals/
+- Udemy | Free Networking Courses - https://www.udemy.com/courses/search/?price=price-free&q=networking&sort=relevance&src=sac
+- edX | Network + Security Foundations - https://www.edx.org/course/network-security-foundations
+- Reddit | Quick HTTP Status Code Guide - https://i.redd.it/5kq9n098tbr41.jpg
+- Portswigger | Web Security Academy - https://portswigger.net/web-security
+- FutureLearn | Basics of Network Security - https://www.futurelearn.com/courses/network-security-basics
+- edX | Network Security - https://www.edx.org/course/network-security-2
+- Teex | Network Assurance - https://teex.org/class/AWR138/
+- Juniper Networks | Learning Portal - https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=FREE-JUNIPER-TRAINING-HOME
+- OpenLearn | Hands-On Lab: Discovering Computer Networks - https://www.open.edu/openlearn/science-maths-technology/computing-ict/discovering-computer-networks-hands-on-the-open-networking-lab/content-section-overview?active-tab=description-tab
+- Professor Messer | Network+ Series - https://www.youtube.com/playlist?list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd
+- SANS | IPv6 Pocket Guide - https://www.sans.org/security-resources/ipv6_tcpip_pocketguide.pdf?msc=Cheat+Sheet+Blog
+- SANS | TCPDUMP Cheat Sheet - https://www.sans.org/security-resources/tcpip.pdf?msc=Cheat+Sheet+Blog
+- Portswigger - Portswigger Web Security Academy - https://portswigger.net/web-security
+
+[Scripting + Programming]
+- MSDN - Getting Started w/ MS PowerShell - https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-PowerShell 
+- PowerShell Tutorial - http://powershelltutorial.net/
+- SANS | PowerShell Cheatsheet - https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltf146e4f361db3938/5e34a7bc946d717e2eab6139/power-shell-cheat-sheet-v41.pdf
+- SANS | PowerShell Primer - https://wiki.sans.blue/Tools/pdfs/PowerShell.pdf
+- SANS | PowerShell Get-Win Event - https://wiki.sans.blue/Tools/pdfs/Get-WinEvent.pdf
+- SoloLearn - Programming Courses - https://www.sololearn.com
+- Udemy | Regex Academy - An Intro to Text Parsing Sorcery - https://www.udemy.com/course/regex-academy-an-introduction-to-text-parsing-sorcery/
+- Udemy | Bash Scripting Courses - https://www.udemy.com/courses/search/?price=price-free&q=bash+scripting&sort=relevance
+- Regex One - https://regexone.com/
+- Regex Crossword - https://regexcrossword.com/
+- Tutorials Point | JSON Tutorial - https://www.tutorialspoint.com/json/index.htm
+- Tutorials Point | VBS Tutorial - https://www.tutorialspoint.com/vbscript/index.htm
+- Clark Center | Secure Scripting - https://clark.center/details/melissajanedark/e2255ac9-f450-4edd-bdca-24588cb98f36
+- Tutorials Point | NASM Assembly Programming Tutorials -  https://www.tutorialspoint.com/assembly_programming/index.htm
+- Udemy | Free Python Courses - https://www.udemy.com/topic/python/free/
+- Real Python | Free Resources - https://realpython.com/
+- Python Institute | Python Essentials - https://pythoninstitute.org/free-python-courses/
+- Hakin9 | Free Python Resources - https://hakin9.org/list-of-free-python-resources/
+- SANS | Python 3 Essentials Cheatsheet - https://www.sans.org/blog/sans-cheat-sheet-python-3/?msc=Cheat+Sheet+Blog  
+- SANS | Scapy Cheatsheet - https://wiki.sans.blue/Tools/pdfs/ScapyCheatSheet_v0.2.pdf
+
+[Linux/MacOS]
+- The Linux Foundation | Introduction to Linux - https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/
+- Udemy | Free Linux Courses - https://www.udemy.com/topic/linux/free/
+- Udacity | Linux Command Line Basics - https://www.udacity.com/course/linux-command-line-basics--ud595
+- FullStackAcademy | Linux Command Line for Beginners - https://cyber.fullstackacademy.com/prepare/cyber-onramp
+- SANS | Linux Shell Survival Guide - https://digital-forensics.sans.org/media/linux-shell-survival-guide.pdf?msc=Cheat+Sheet+Blog
+- SANS | Linux CLI 101 - https://wiki.sans.blue/Tools/pdfs/LinuxCLI101.pdf
+- SANS | Linux CLI - https://wiki.sans.blue/Tools/pdfs/LinuxCLI.pdf
+- Cisco Networking Academy | Linux Essentials - https://www.netacad.com/courses/os-it/ndg-linux-essentials
+- Cisco Networking Academy | NDG Linux Unhatched - https://www.netacad.com/courses/os-it/ndg-linux-unhatched
+- HighOn.Coffee | Command Reference - https://highon.coffee/blog/linux-commands-cheat-sheet/ 
+- Kali Linux Cheat Sheet - https://i.redd.it/9bu827i9tr751.jpg
+- Kali Linux | Revealed - https://kali.training/
