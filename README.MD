@@ -9,6 +9,7 @@ List of Resources
 - SANS - Free Resources - https://www.sans.org/free
 - Fundamentals Training - https://www.paloaltonetworks.com/services/education/digital-learning#Fundamental_Training
 - Professor Messer - CompTIA 220-1002 A+ Training Course - https://www.youtube.com/watch?v=ChQ18B1hofI&list=PLG49S3nxzAnmwkCAdWUgCFvVK4IxMBTmb
+- GitLab's Git Cheatsheet - https://about.gitlab.com/images/press/git-cheat-sheet.pdf
 
 [Computer Networking]
 - Alison - Network + Security Courses - http://alison.com/courses/network-and-security
@@ -26,6 +27,8 @@ List of Resources
 - SANS | IPv6 Pocket Guide - https://www.sans.org/security-resources/ipv6_tcpip_pocketguide.pdf?msc=Cheat+Sheet+Blog
 - SANS | TCPDUMP Cheat Sheet - https://www.sans.org/security-resources/tcpip.pdf?msc=Cheat+Sheet+Blog
 - Portswigger - Portswigger Web Security Academy - https://portswigger.net/web-security
+- What do InfoSec Pros really do? A mindmap from Rafeeq Rehman: - https://rafeeqrehman.com/2021/07/11/ciso-mindmap-2021-what-do-infosec-professionals-really-do/
+- NahamSec's Beginner Bug Bounty Resources - https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
 
 [Scripting + Programming]
 - MSDN - Getting Started w/ MS PowerShell - https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-PowerShell 
@@ -48,6 +51,7 @@ List of Resources
 - Hakin9 | Free Python Resources - https://hakin9.org/list-of-free-python-resources/
 - SANS | Python 3 Essentials Cheatsheet - https://www.sans.org/blog/sans-cheat-sheet-python-3/?msc=Cheat+Sheet+Blog  
 - SANS | Scapy Cheatsheet - https://wiki.sans.blue/Tools/pdfs/ScapyCheatSheet_v0.2.pdf
+- Awesome Shodan Queries - https://github.com/jakejarvis/awesome-shodan-queries
 
 [Linux/MacOS]
 - The Linux Foundation | Introduction to Linux - https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/
