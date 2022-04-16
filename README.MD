@@ -54,6 +54,7 @@ List of Resources
 - SANS | Python 3 Essentials Cheatsheet - https://www.sans.org/blog/sans-cheat-sheet-python-3/?msc=Cheat+Sheet+Blog  
 - SANS | Scapy Cheatsheet - https://wiki.sans.blue/Tools/pdfs/ScapyCheatSheet_v0.2.pdf
 - Awesome Shodan Queries - https://github.com/jakejarvis/awesome-shodan-queries
+- An interesting project that speedtests then tweets if below a certain threshhold: https://github.com/paul-man/internetSpeedMonitor
 
 [Linux/MacOS]
 - The Linux Foundation | Introduction to Linux - https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/
