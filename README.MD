@@ -73,3 +73,7 @@ List of Resources
 [Automation]
 - A set of automated tooling for the OSCP certification exam: | https://github.com/4ut0m4t0n/alacarte
 - A method to download all your ~~shit~~ posts from Reddit: | https://redditmanager.com/
+
+[Single Board Computer (SBC) Projects]
+- Create a Kubernetes cluster with RPis: | https://opensource.com/article/20/6/kubernetes-raspberry-pi
+- The Awesome list for Raspberry Pi: | https://github.com/thibmaek/awesome-raspberry-pi
