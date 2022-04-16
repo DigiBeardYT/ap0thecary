@@ -30,6 +30,7 @@ List of Resources
 - Portswigger - Portswigger Web Security Academy - https://portswigger.net/web-security
 - What do InfoSec Pros really do? A mindmap from Rafeeq Rehman: - https://rafeeqrehman.com/2021/07/11/ciso-mindmap-2021-what-do-infosec-professionals-really-do/
 - NahamSec's Beginner Bug Bounty Resources - https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
+- An Awesome list related to web application firewalls (WAFs) | https://github.com/0xInfection/Awesome-WAF
 
 [Scripting + Programming]
 - MSDN - Getting Started w/ MS PowerShell - https://channel9.msdn.com/Series/Getting-Started-with-Microsoft-PowerShell 
