@@ -10,6 +10,7 @@ List of Resources
 - Fundamentals Training - https://www.paloaltonetworks.com/services/education/digital-learning#Fundamental_Training
 - Professor Messer - CompTIA 220-1002 A+ Training Course - https://www.youtube.com/watch?v=ChQ18B1hofI&list=PLG49S3nxzAnmwkCAdWUgCFvVK4IxMBTmb
 - GitLab's Git Cheatsheet - https://about.gitlab.com/images/press/git-cheat-sheet.pdf
+- A privacy focused browser based on Firefox: https://librewolf.net/
 
 [Computer Networking]
 - Alison - Network + Security Courses - http://alison.com/courses/network-and-security
