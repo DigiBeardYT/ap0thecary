@@ -71,3 +71,4 @@ List of Resources
 
 [Automation]
 - A set of automated tooling for the OSCP certification exam: | https://github.com/4ut0m4t0n/alacarte
+- A method to download all your ~~shit~~ posts from Reddit: | https://redditmanager.com/
