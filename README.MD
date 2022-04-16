@@ -67,3 +67,6 @@ List of Resources
 - HighOn.Coffee | Command Reference - https://highon.coffee/blog/linux-commands-cheat-sheet/ 
 - Kali Linux Cheat Sheet - https://i.redd.it/9bu827i9tr751.jpg
 - Kali Linux | Revealed - https://kali.training/
+
+[Automation]
+- A set of automated tooling for the OSCP certification exam: | https://github.com/4ut0m4t0n/alacarte
