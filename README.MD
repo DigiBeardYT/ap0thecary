@@ -10,16 +10,16 @@ List of Resources
 [Computer Networking]
 
 [Scripting + Programming]
-https://github.com/BinsonBuzz/unraid_rclone_mount
-https://github.com/OpenRA/OpenRA
-https://github.com/webartifex/intro-to-python
+- https://github.com/BinsonBuzz/unraid_rclone_mount
+- https://github.com/OpenRA/OpenRA
+- https://github.com/webartifex/intro-to-python
 
 [Linux/MacOS]
 
 [Windows]
 
 [Maker Resources]
-https://github.com/oshaboy/awesome-indie-handhelds
+- https://github.com/oshaboy/awesome-indie-handhelds
 
 [Infosec News]
-https://0dayfans.com/
+- https://0dayfans.com/
