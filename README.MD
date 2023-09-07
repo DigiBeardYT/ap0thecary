@@ -30,5 +30,5 @@ List of Resources
 [Games Programming]
 - https://github.com/raysan5/raylib
 
-[AI
+[AI]
 - https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y
