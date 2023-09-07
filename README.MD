@@ -16,6 +16,8 @@ List of Resources
 [Bash]
 - https://github.com/dylanaraps/pure-bash-bible
 - https://m10k.eu/toolbox.html
+- https://github.com/trinib/Linux-Bash-Commands
+- https://gitlab.com/matesitox/shpinner
 
 [Linux]
 - https://mitxela.com/projects/dotfiles_management
@@ -54,6 +56,7 @@ List of Resources
 
 [Emacs]
 - https://github.com/Vidianos-Giannitsis/zetteldesk.el
+- https://github.com/rougier/nano-emacs
 
 [OSCP Prep]
 - https://github.com/4ut0m4t0n/alacarte
@@ -76,6 +79,7 @@ List of Resources
 
 [Note-Taking]
 - https://github.com/cu/silicon
+- https://lazy.so/
 
 [OSINT - Open Source Intelligence]
 - https://github.com/ARPSyndicate/awesome-intelligence
