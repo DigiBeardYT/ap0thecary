@@ -36,6 +36,9 @@ List of Resources
 - https://github.com/sbilly/awesome-security
 - https://github.com/trickest/cve
 - https://www.misp-project.org/
+- https://github.com/0xInfection/Awesome-WAF
+- https://github.com/0xtavian/awesome-attack-surface-monitoring
+
 
 [Games Programming]
 - https://github.com/raysan5/raylib
@@ -48,3 +51,6 @@ List of Resources
 
 [Emacs]
 - https://github.com/Vidianos-Giannitsis/zetteldesk.el
+
+[OSCP Prep]
+- https://github.com/4ut0m4t0n/alacarte
