@@ -14,21 +14,37 @@ List of Resources
 - https://github.com/OpenRA/OpenRA
 - https://github.com/webartifex/intro-to-python
 
-[Linux/MacOS]
+[Bash]
+- https://github.com/dylanaraps/pure-bash-bible
+- https://m10k.eu/toolbox.html
+
+[Linux]
 
 [Windows]
+
+[MacOS]
 
 [Maker Resources]
 - https://github.com/oshaboy/awesome-indie-handhelds
 
 [Infosec News]
 - https://0dayfans.com/
+- https://dayzerosec.com/
 
-[Security}
+[Security]
 - https://github.com/LetsDefend/awesome-soc-analyst
+- https://github.com/sbilly/awesome-security
+- https://github.com/trickest/cve
+- https://www.misp-project.org/
 
 [Games Programming]
 - https://github.com/raysan5/raylib
 
 [AI]
 - https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y
+
+[Code Editing]
+- https://github.com/liz3/ledit
+
+[Emacs]
+- https://github.com/Vidianos-Giannitsis/zetteldesk.el
