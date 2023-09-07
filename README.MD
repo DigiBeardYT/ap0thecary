@@ -6,6 +6,7 @@ List of Resources
 
 [General Computing]
 - The Five Pillars - https://github.com/DFIRmadness/5pillars
+- https://rafeeqrehman.com/wp-content/uploads/2023/03/CISO_Mindmap-2023.pdf
 
 [Computer Networking]
 
@@ -17,6 +18,7 @@ List of Resources
 - https://m10k.eu/toolbox.html
 
 [Linux]
+- https://mitxela.com/projects/dotfiles_management
 
 [Windows]
 
@@ -28,6 +30,7 @@ List of Resources
 [Infosec News]
 - https://0dayfans.com/
 - https://dayzerosec.com/
+- https://github.com/foorilla/allinfosecnews_sources
 
 [Security]
 - https://github.com/LetsDefend/awesome-soc-analyst
@@ -44,6 +47,7 @@ List of Resources
 
 [AI]
 - https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y
+- https://allthingsai.com/
 
 [Code Editing]
 - https://github.com/liz3/ledit
@@ -64,3 +68,17 @@ List of Resources
 
 [Python]
 - https://github.com/webartifex/intro-to-python
+
+[Ethical Hacking]
+- https://offsec.tools/
+- https://github.com/LafiAlmutairi/Pentest-Handbook
+- https://github.com/infosecn1nja/Red-Teaming-Toolkit
+
+[Note-Taking]
+- https://github.com/cu/silicon
+
+[OSINT - Open Source Intelligence]
+- https://github.com/ARPSyndicate/awesome-intelligence
+
+[Code Editing]
+- https://pulsar-edit.dev/
