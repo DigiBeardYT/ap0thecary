@@ -54,3 +54,11 @@ List of Resources
 
 [OSCP Prep]
 - https://github.com/4ut0m4t0n/alacarte
+- https://github.com/21y4d/nmapAutomator
+- https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob
+
+[Javascript]
+- https://github.com/30-seconds/30-seconds-of-code
+
+[Data Science]
+- https://github.com/aaronwangy/Data-Science-Cheatsheet
