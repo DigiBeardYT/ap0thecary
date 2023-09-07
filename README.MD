@@ -11,8 +11,6 @@ List of Resources
 
 [Scripting + Programming]
 - https://github.com/BinsonBuzz/unraid_rclone_mount
-- https://github.com/OpenRA/OpenRA
-- https://github.com/webartifex/intro-to-python
 
 [Bash]
 - https://github.com/dylanaraps/pure-bash-bible
@@ -42,6 +40,7 @@ List of Resources
 
 [Games Programming]
 - https://github.com/raysan5/raylib
+- https://github.com/OpenRA/OpenRA
 
 [AI]
 - https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y
@@ -62,3 +61,6 @@ List of Resources
 
 [Data Science]
 - https://github.com/aaronwangy/Data-Science-Cheatsheet
+
+[Python]
+- https://github.com/webartifex/intro-to-python
