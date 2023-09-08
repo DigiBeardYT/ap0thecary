@@ -18,6 +18,7 @@ List of Resources
 - https://m10k.eu/toolbox.html
 - https://github.com/trinib/Linux-Bash-Commands
 - https://gitlab.com/matesitox/shpinner
+- https://sharats.me/posts/shell-script-best-practices/
 
 [Linux]
 - https://mitxela.com/projects/dotfiles_management
@@ -76,6 +77,7 @@ List of Resources
 - https://offsec.tools/
 - https://github.com/LafiAlmutairi/Pentest-Handbook
 - https://github.com/infosecn1nja/Red-Teaming-Toolkit
+- https://github.com/CyberSecurityUP/Guide-CEH-Practical-Master
 
 [Note-Taking]
 - https://github.com/cu/silicon
@@ -83,6 +85,15 @@ List of Resources
 
 [OSINT - Open Source Intelligence]
 - https://github.com/ARPSyndicate/awesome-intelligence
+- https://github.com/soxoj/maigret
+- https://github.com/cipher387/osint_stuff_tool_collection
 
 [Code Editing]
 - https://pulsar-edit.dev/
+
+[Privacy]
+- https://docs.hackliberty.org/books/privacy-security/page/privacy-security-resources
+- https://github.com/cbeuw/Cloak
+
+[OSCP - Offensive Security Certified Professional]
+- https://github.com/shreyaschavhan/oscp-pre-preparation-plan-and-notes
