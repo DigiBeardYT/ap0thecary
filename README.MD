@@ -19,6 +19,7 @@ List of Resources
 - https://github.com/trinib/Linux-Bash-Commands
 - https://gitlab.com/matesitox/shpinner
 - https://sharats.me/posts/shell-script-best-practices/
+- https://github.com/fastily/cheatsheet
 
 [Linux]
 - https://mitxela.com/projects/dotfiles_management
@@ -78,6 +79,16 @@ List of Resources
 - https://github.com/LafiAlmutairi/Pentest-Handbook
 - https://github.com/infosecn1nja/Red-Teaming-Toolkit
 - https://github.com/CyberSecurityUP/Guide-CEH-Practical-Master
+- https://github.com/pirxthepilot/wtfis
+- https://github.com/J0hnbX/RedTeam-Resources
+- https://github.com/0xMrNiko/Awesome-Red-Teaming
+- https://github.com/irredteam/irredteam.github.io
+- https://github.com/idchoppers/redTeaming
+- https://github.com/A0RX/Redblueteamparty
+- https://github.com/WebBreacher/WhatsMyName
+- https://lolbas-project.github.io/
+- https://persistence-info.github.io/
+- https://systemweakness.com/basic-pentesting-cheat-sheet-c43e1647c753
 
 [Note-Taking]
 - https://github.com/cu/silicon
@@ -87,6 +98,7 @@ List of Resources
 - https://github.com/ARPSyndicate/awesome-intelligence
 - https://github.com/soxoj/maigret
 - https://github.com/cipher387/osint_stuff_tool_collection
+- https://github.com/p1ngul1n0/blackbird
 
 [Code Editing]
 - https://pulsar-edit.dev/
@@ -94,6 +106,12 @@ List of Resources
 [Privacy]
 - https://docs.hackliberty.org/books/privacy-security/page/privacy-security-resources
 - https://github.com/cbeuw/Cloak
+- https://github.com/undergroundwires/privacy.sexy
+- https://libredirect.github.io/
+- https://github.com/lissy93/awesome-privacy
 
 [OSCP - Offensive Security Certified Professional]
 - https://github.com/shreyaschavhan/oscp-pre-preparation-plan-and-notes
+
+[Bug Bounty]
+- https://www.ceos3c.com/security/get-started-with-bug-bounties/
