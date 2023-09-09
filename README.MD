@@ -10,6 +10,9 @@ List of Resources
 
 [Computer Networking]
 
+[IPS - Intrusion Prevention System]
+- https://github.com/stratosphereips/StratosphereLinuxIPS/tree/master
+
 [Scripting + Programming]
 - https://github.com/BinsonBuzz/unraid_rclone_mount
 - https://github.com/bermi/password-generator
@@ -21,9 +24,11 @@ List of Resources
 - https://gitlab.com/matesitox/shpinner
 - https://sharats.me/posts/shell-script-best-practices/
 - https://github.com/fastily/cheatsheet
+- https://github.com/microsoft/Codex-CLI
 
 [Linux]
 - https://mitxela.com/projects/dotfiles_management
+- https://github.com/aminehmida/medots
 
 [Windows]
 
@@ -68,6 +73,8 @@ List of Resources
 - https://github.com/4ut0m4t0n/alacarte
 - https://github.com/21y4d/nmapAutomator
 - https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob
+- https://github.com/mrtechghost/oscp-dashboard/blob/main/README.md
+- https://github.com/avi7611/Oscp-Cheat-Sheet/tree/master/oscp
 
 [Javascript]
 - https://github.com/30-seconds/30-seconds-of-code
@@ -96,17 +103,27 @@ List of Resources
 - https://www.stevencampbell.info/Pivoting-for-pentesters/
 - https://x0rb3l.github.io/Cyber-Bookmarks/bookmarks.html
 - https://book.hacktricks.xyz/welcome/readme
+- https://github.com/deepfence/YaraHunter
+- https://github.com/xnl-h4ck3r/knoxnl
+- https://github.com/xnl-h4ck3r/GAP-Burp-Extension
+- https://github.com/bitsadmin/chophound
+- https://github.com/KaanSK/shomon
 
 [Note-Taking]
 - https://github.com/cu/silicon
 - https://lazy.so/
 - https://github.com/zadam/trilium
+- https://gitlab.com/andrejr/zetk
+- https://notion.so
+- https://obsidian.md
+- https://prose.sh/
 
 [OSINT - Open Source Intelligence]
 - https://github.com/ARPSyndicate/awesome-intelligence
 - https://github.com/soxoj/maigret
 - https://github.com/cipher387/osint_stuff_tool_collection
 - https://github.com/p1ngul1n0/blackbird
+- https://github.com/xnl-h4ck3r/waymore
 
 [Code Editing]
 - https://pulsar-edit.dev/
@@ -117,6 +134,8 @@ List of Resources
 - https://github.com/undergroundwires/privacy.sexy
 - https://libredirect.github.io/
 - https://github.com/lissy93/awesome-privacy
+- https://cyb3rsecurity.tips/p/-online-privacy-to-what-extent-should
+- https://garrit.xyz/posts/2021-04-07-pgp-guide
 
 [OSCP - Offensive Security Certified Professional]
 - https://github.com/shreyaschavhan/oscp-pre-preparation-plan-and-notes
@@ -124,6 +143,8 @@ List of Resources
 [Bug Bounty]
 - https://www.ceos3c.com/security/get-started-with-bug-bounties/
 - https://github.com/stevemcilwain/quiver
+- https://github.com/ksharinarayanan/bash-hacks
+- https://github.com/ksharinarayanan/SSRFire
 
 [Podcasts]
 - https://open.spotify.com/show/4pqEFAjIUuax0wQUCxjS2L?si=0c28f8ec3fac4072&nd=1
@@ -139,3 +160,9 @@ List of Resources
 - https://open.spotify.com/show/6QPWpZJ6bRTdbkI7GgLHBM?si=0495206fda404500&nd=1
 - https://thecyberwire.com/podcasts/hacking-humans
 - https://defensivesecurity.org/
+
+[Learning]
+- https://github.com/trane-project/trane
+
+[Reverse Engineering]
+- https://github.com/rizinorg/cutter
