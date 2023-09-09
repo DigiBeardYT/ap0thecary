@@ -12,6 +12,7 @@ List of Resources
 
 [Scripting + Programming]
 - https://github.com/BinsonBuzz/unraid_rclone_mount
+- https://github.com/bermi/password-generator
 
 [Bash]
 - https://github.com/dylanaraps/pure-bash-bible
@@ -35,6 +36,7 @@ List of Resources
 - https://0dayfans.com/
 - https://dayzerosec.com/
 - https://github.com/foorilla/allinfosecnews_sources
+- https://github.com/karimhabush/cyberowl
 
 [Security]
 - https://github.com/LetsDefend/awesome-soc-analyst
@@ -48,6 +50,7 @@ List of Resources
 [Games Programming]
 - https://github.com/raysan5/raylib
 - https://github.com/OpenRA/OpenRA
+- https://github.com/tiltedphoques/TiltedEvolution
 
 [AI]
 - https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y
@@ -59,6 +62,7 @@ List of Resources
 [Emacs]
 - https://github.com/Vidianos-Giannitsis/zetteldesk.el
 - https://github.com/rougier/nano-emacs
+- https://protesilaos.com/emacs/denote
 
 [OSCP Prep]
 - https://github.com/4ut0m4t0n/alacarte
@@ -89,10 +93,14 @@ List of Resources
 - https://lolbas-project.github.io/
 - https://persistence-info.github.io/
 - https://systemweakness.com/basic-pentesting-cheat-sheet-c43e1647c753
+- https://www.stevencampbell.info/Pivoting-for-pentesters/
+- https://x0rb3l.github.io/Cyber-Bookmarks/bookmarks.html
+- https://book.hacktricks.xyz/welcome/readme
 
 [Note-Taking]
 - https://github.com/cu/silicon
 - https://lazy.so/
+- https://github.com/zadam/trilium
 
 [OSINT - Open Source Intelligence]
 - https://github.com/ARPSyndicate/awesome-intelligence
@@ -115,3 +123,19 @@ List of Resources
 
 [Bug Bounty]
 - https://www.ceos3c.com/security/get-started-with-bug-bounties/
+- https://github.com/stevemcilwain/quiver
+
+[Podcasts]
+- https://open.spotify.com/show/4pqEFAjIUuax0wQUCxjS2L?si=0c28f8ec3fac4072&nd=1
+- https://podcasts.apple.com/us/podcast/hackers-podcast/id1066024109
+- https://cybersecurityinterviews.com/
+- https://www.brakeingsecurity.com/
+- https://podcasts.apple.com/us/podcast/pauls-security-weekly-podcast-only/id1149992167
+- https://podcasts.apple.com/us/podcast/malicious-life/id1252417787
+- https://opensourcesecurity.io/category/podcast/
+- https://hackerpublicradio.org/
+- https://thehackermind.com/
+- https://play.acast.com/s/cyber
+- https://open.spotify.com/show/6QPWpZJ6bRTdbkI7GgLHBM?si=0495206fda404500&nd=1
+- https://thecyberwire.com/podcasts/hacking-humans
+- https://defensivesecurity.org/
