@@ -4,9 +4,6 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
-[Maker Resources]
-- https://github.com/oshaboy/awesome-indie-handhelds
-
 [Infosec News]
 - https://0dayfans.com/
 - https://dayzerosec.com/
