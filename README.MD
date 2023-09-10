@@ -23,6 +23,7 @@ List of Resources
 [Scripting + Programming]
 - https://github.com/BinsonBuzz/unraid_rclone_mount
 - https://github.com/bermi/password-generator
+- https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fp1i8awsivji51.jpg
 
 [Bash]
 - https://github.com/dylanaraps/pure-bash-bible
@@ -34,10 +35,13 @@ List of Resources
 - https://github.com/microsoft/Codex-CLI
 - https://effective-shell.com/
 - https://github.com/terror/present
+- https://github.com/onceupon/Bash-Oneliner
+- https://github.com/denisidoro/navi
 
 [Linux]
 - https://mitxela.com/projects/dotfiles_management
 - https://github.com/aminehmida/medots
+- https://github.com/mikeroyal/Fedora-Guide
 
 [Windows]
 
@@ -60,12 +64,14 @@ List of Resources
 - https://www.misp-project.org/
 - https://github.com/0xInfection/Awesome-WAF
 - https://github.com/0xtavian/awesome-attack-surface-monitoring
+- https://github.com/6mile/DevSecOps-Playbook
 
 
 [Games Programming]
 - https://github.com/raysan5/raylib
 - https://github.com/OpenRA/OpenRA
 - https://github.com/tiltedphoques/TiltedEvolution
+- https://github.com/TheAssemblyArmada/Vanilla-Conquer
 
 [AI]
 - https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y
@@ -79,16 +85,24 @@ List of Resources
 - https://github.com/rougier/nano-emacs
 - https://protesilaos.com/emacs/denote
 - https://github.com/radian-software/straight.el
+- https://lucidmanager.org/tags/emacs/
+- https://emacs.amodernist.com/
 
 [Org-Mode]
 - https://ox-hugo.scripter.co/
 - https://github.com/novoid/lazyblorg
 - https://github.com/200ok-ch/organice
 - https://github.com/Kungsgeten/org-brain
+- https://hugocisneros.com/blog/my-org-roam-notes-workflow/
+- https://github.com/org-roam/org-roam-ui
 
 [Vim/Neovim]
 - https://bhupesh.me/writing-like-a-pro-with-vale-and-neovim/
 - https://vimawesome.com/
+- https://framal.xyz/why-ive-spent-my-easter-break-customizing-neovim/
+
+[Zsh]
+- https://zimfw.sh/
 
 [OSCP Prep]
 - https://github.com/4ut0m4t0n/alacarte
@@ -150,6 +164,7 @@ List of Resources
 - https://github.com/cipher387/osint_stuff_tool_collection
 - https://github.com/p1ngul1n0/blackbird
 - https://github.com/xnl-h4ck3r/waymore
+- https://github.com/3nock/OTE
 
 [Code Editing]
 - https://pulsar-edit.dev/
@@ -165,6 +180,8 @@ List of Resources
 - https://safing.io/download/
 - https://github.com/iamadamdev/bypass-paywalls-chrome/blob/master/README.md
 - https://gitlab.com/ck-s-technology-news/privacy-tools-list-by-cktn
+- https://github.com/auctors/free-lunch
+- https://security-list.js.org/#/
 
 [OSCP - Offensive Security Certified Professional]
 - https://github.com/shreyaschavhan/oscp-pre-preparation-plan-and-notes
@@ -193,9 +210,14 @@ List of Resources
 
 [Learning]
 - https://github.com/trane-project/trane
+- https://github.com/abishekmuthian/memory-hammer
+
+[PKM - Personal Knowledge Management]
+- https://www.dsebastien.net/2022-04-03-25-years-of-personal-knowledge-management/
 
 [Reverse Engineering]
 - https://github.com/rizinorg/cutter
+- https://github.com/mentebinaria/retoolkit
 
 [Twitch Streams]
 - https://infosecstreams.com/
