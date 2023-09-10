@@ -4,14 +4,6 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
-[Bug Bounty]
-- https://www.ceos3c.com/security/get-started-with-bug-bounties/
-- https://github.com/stevemcilwain/quiver
-- https://github.com/ksharinarayanan/bash-hacks
-- https://github.com/ksharinarayanan/SSRFire
-- https://github.com/daffainfo/Oneliner-Bugbounty
-- https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/README.md
-
 [Podcasts]
 - https://open.spotify.com/show/4pqEFAjIUuax0wQUCxjS2L?si=0c28f8ec3fac4072&nd=1
 - https://podcasts.apple.com/us/podcast/hackers-podcast/id1066024109
