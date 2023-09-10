@@ -4,11 +4,6 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
-
-
-[Code Editing]
-- https://pulsar-edit.dev/
-
 [Privacy]
 - https://docs.hackliberty.org/books/privacy-security/page/privacy-security-resources
 - https://github.com/cbeuw/Cloak
