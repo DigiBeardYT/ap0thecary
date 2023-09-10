@@ -4,13 +4,6 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
-[Games Programming]
-- https://github.com/raysan5/raylib
-- https://github.com/OpenRA/OpenRA
-- https://github.com/tiltedphoques/TiltedEvolution
-- https://github.com/TheAssemblyArmada/Vanilla-Conquer
-- https://github.com/leereilly/games
-
 [AI]
 - https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y
 - https://allthingsai.com/
