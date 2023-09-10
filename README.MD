@@ -4,8 +4,6 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
-[Network Analysis]
-- https://pts-project.org/
 
 [Getting Hired]
 - https://github.com/INIT6Source/Hacker_Hiring_Discords
