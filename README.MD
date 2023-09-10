@@ -4,21 +4,6 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
-[Podcasts]
-- https://open.spotify.com/show/4pqEFAjIUuax0wQUCxjS2L?si=0c28f8ec3fac4072&nd=1
-- https://podcasts.apple.com/us/podcast/hackers-podcast/id1066024109
-- https://cybersecurityinterviews.com/
-- https://www.brakeingsecurity.com/
-- https://podcasts.apple.com/us/podcast/pauls-security-weekly-podcast-only/id1149992167
-- https://podcasts.apple.com/us/podcast/malicious-life/id1252417787
-- https://opensourcesecurity.io/category/podcast/
-- https://hackerpublicradio.org/
-- https://thehackermind.com/
-- https://play.acast.com/s/cyber
-- https://open.spotify.com/show/6QPWpZJ6bRTdbkI7GgLHBM?si=0495206fda404500&nd=1
-- https://thecyberwire.com/podcasts/hacking-humans
-- https://defensivesecurity.org/
-
 [Learning]
 - https://github.com/trane-project/trane
 - https://github.com/abishekmuthian/memory-hammer
