@@ -5,8 +5,7 @@ As you’re browsing through my curated links, you might decide you want to visi
 List of Resources
 
 
-[Getting Hired]
-- https://github.com/INIT6Source/Hacker_Hiring_Discords
+
 
 [IPS - Intrusion Prevention System]
 - https://github.com/stratosphereips/StratosphereLinuxIPS/tree/master
