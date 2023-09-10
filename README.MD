@@ -9,6 +9,10 @@ List of Resources
 - https://rafeeqrehman.com/wp-content/uploads/2023/03/CISO_Mindmap-2023.pdf
 
 [Computer Networking]
+- https://github.com/Hakky54/mutual-tls-ssl
+
+[Network Analysis]
+- https://pts-project.org/
 
 [Getting Hired]
 - https://github.com/INIT6Source/Hacker_Hiring_Discords
@@ -47,6 +51,7 @@ List of Resources
 - https://dayzerosec.com/
 - https://github.com/foorilla/allinfosecnews_sources
 - https://github.com/karimhabush/cyberowl
+- https://news.t0.vc/#
 
 [Security]
 - https://github.com/LetsDefend/awesome-soc-analyst
@@ -74,6 +79,12 @@ List of Resources
 - https://github.com/rougier/nano-emacs
 - https://protesilaos.com/emacs/denote
 - https://github.com/radian-software/straight.el
+
+[Org-Mode]
+- https://ox-hugo.scripter.co/
+- https://github.com/novoid/lazyblorg
+- https://github.com/200ok-ch/organice
+- https://github.com/Kungsgeten/org-brain
 
 [Vim/Neovim]
 - https://bhupesh.me/writing-like-a-pro-with-vale-and-neovim/
@@ -125,10 +136,13 @@ List of Resources
 - https://github.com/cu/silicon
 - https://lazy.so/
 - https://github.com/zadam/trilium
+- https://github.com/zadam/trilium/wiki/Patterns-of-personal-knowledge-base
 - https://gitlab.com/andrejr/zetk
 - https://notion.so
 - https://obsidian.md
 - https://prose.sh/
+- https://capacities.io/
+- https://github.com/batnoter/batnoter
 
 [OSINT - Open Source Intelligence]
 - https://github.com/ARPSyndicate/awesome-intelligence
@@ -150,6 +164,7 @@ List of Resources
 - https://garrit.xyz/posts/2021-04-07-pgp-guide
 - https://safing.io/download/
 - https://github.com/iamadamdev/bypass-paywalls-chrome/blob/master/README.md
+- https://gitlab.com/ck-s-technology-news/privacy-tools-list-by-cktn
 
 [OSCP - Offensive Security Certified Professional]
 - https://github.com/shreyaschavhan/oscp-pre-preparation-plan-and-notes
@@ -184,3 +199,6 @@ List of Resources
 
 [Twitch Streams]
 - https://infosecstreams.com/
+
+[Git]
+- https://git-fork.com/
