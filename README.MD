@@ -4,9 +4,6 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
-[Code Editing]
-- https://github.com/liz3/ledit
-
 [Emacs]
 - https://github.com/Vidianos-Giannitsis/zetteldesk.el
 - https://github.com/rougier/nano-emacs
