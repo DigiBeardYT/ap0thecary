@@ -4,10 +4,6 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
-[AI]
-- https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y
-- https://allthingsai.com/
-
 [Code Editing]
 - https://github.com/liz3/ledit
 
