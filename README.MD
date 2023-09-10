@@ -6,7 +6,4 @@ List of Resources
 
 
 
-[Malware Analysis]
-- https://www.virusshare.com/
-- https://www.malware-traffic-analysis.net/
-- https://www.vx-underground.org/#E:/root
+
