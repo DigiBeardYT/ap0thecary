@@ -4,9 +4,6 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
-[Javascript]
-- https://github.com/30-seconds/30-seconds-of-code
-
 [Data Science]
 - https://github.com/aaronwangy/Data-Science-Cheatsheet
 
