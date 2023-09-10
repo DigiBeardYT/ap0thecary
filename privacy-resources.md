@@ -1,0 +1,15 @@
+[Privacy]
+- https://docs.hackliberty.org/books/privacy-security/page/privacy-security-resources
+- https://github.com/cbeuw/Cloak
+- https://github.com/undergroundwires/privacy.sexy
+- https://libredirect.github.io/
+- https://github.com/lissy93/awesome-privacy
+- https://cyb3rsecurity.tips/p/-online-privacy-to-what-extent-should
+- https://garrit.xyz/posts/2021-04-07-pgp-guide
+- https://safing.io/download/
+- https://github.com/iamadamdev/bypass-paywalls-chrome/blob/master/README.md
+- https://gitlab.com/ck-s-technology-news/privacy-tools-list-by-cktn
+- https://github.com/auctors/free-lunch
+- https://security-list.js.org/#/
+- https://github.com/Lissy93/personal-security-checklist?utm_source=pocket_mylist&mc_cid=6fad8ee18b&mc_eid=f08221a04e
+- https://github.com/grugq/security_guides
