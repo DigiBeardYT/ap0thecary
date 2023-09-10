@@ -4,15 +4,6 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
-
-
-
-
-
-
-[Twitch Streams]
-- https://infosecstreams.com/
-
 [Git]
 - https://git-fork.com/
 
