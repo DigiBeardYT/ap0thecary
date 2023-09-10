@@ -1,0 +1,12 @@
+[Bash]
+- https://github.com/dylanaraps/pure-bash-bible
+- https://m10k.eu/toolbox.html
+- https://github.com/trinib/Linux-Bash-Commands
+- https://gitlab.com/matesitox/shpinner
+- https://sharats.me/posts/shell-script-best-practices/
+- https://github.com/fastily/cheatsheet
+- https://github.com/microsoft/Codex-CLI
+- https://effective-shell.com/
+- https://github.com/terror/present
+- https://github.com/onceupon/Bash-Oneliner
+- https://github.com/denisidoro/navi
