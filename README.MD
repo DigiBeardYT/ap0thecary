@@ -4,15 +4,6 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
-[Emacs]
-- https://github.com/Vidianos-Giannitsis/zetteldesk.el
-- https://github.com/rougier/nano-emacs
-- https://protesilaos.com/emacs/denote
-- https://github.com/radian-software/straight.el
-- https://lucidmanager.org/tags/emacs/
-- https://emacs.amodernist.com/
-- https://systemcrafters.net/emacs-from-scratch/basics-of-emacs-configuration/
-
 [Org-Mode]
 - https://ox-hugo.scripter.co/
 - https://github.com/novoid/lazyblorg
