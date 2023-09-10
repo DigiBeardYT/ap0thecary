@@ -4,10 +4,6 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
-[Computer Networking]
-- https://github.com/Hakky54/mutual-tls-ssl
-- https://github.com/opsdisk/the_cyber_plumbers_handbook
-
 [Network Analysis]
 - https://pts-project.org/
 
