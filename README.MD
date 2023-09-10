@@ -4,20 +4,6 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
-
-
-[Note-Taking]
-- https://github.com/cu/silicon
-- https://lazy.so/
-- https://github.com/zadam/trilium
-- https://github.com/zadam/trilium/wiki/Patterns-of-personal-knowledge-base
-- https://gitlab.com/andrejr/zetk
-- https://notion.so
-- https://obsidian.md
-- https://prose.sh/
-- https://capacities.io/
-- https://github.com/batnoter/batnoter
-
 [OSINT - Open Source Intelligence]
 - https://github.com/ARPSyndicate/awesome-intelligence
 - https://github.com/soxoj/maigret
