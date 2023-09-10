@@ -8,9 +8,7 @@ List of Resources
 
 
 
-[Reverse Engineering]
-- https://github.com/rizinorg/cutter
-- https://github.com/mentebinaria/retoolkit
+
 
 [Twitch Streams]
 - https://infosecstreams.com/
