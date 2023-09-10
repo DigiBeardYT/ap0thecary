@@ -4,14 +4,6 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
-[Org-Mode]
-- https://ox-hugo.scripter.co/
-- https://github.com/novoid/lazyblorg
-- https://github.com/200ok-ch/organice
-- https://github.com/Kungsgeten/org-brain
-- https://hugocisneros.com/blog/my-org-roam-notes-workflow/
-- https://github.com/org-roam/org-roam-ui
-
 [Vim/Neovim]
 - https://bhupesh.me/writing-like-a-pro-with-vale-and-neovim/
 - https://vimawesome.com/
