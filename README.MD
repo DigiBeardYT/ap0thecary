@@ -24,6 +24,7 @@ List of Resources
 - https://github.com/BinsonBuzz/unraid_rclone_mount
 - https://github.com/bermi/password-generator
 - https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fp1i8awsivji51.jpg
+- https://www.guardara.com/
 
 [Bash]
 - https://github.com/dylanaraps/pure-bash-bible
@@ -42,6 +43,7 @@ List of Resources
 - https://mitxela.com/projects/dotfiles_management
 - https://github.com/aminehmida/medots
 - https://github.com/mikeroyal/Fedora-Guide
+- https://github.com/phiresky/ripgrep-all
 
 [Windows]
 
@@ -65,6 +67,9 @@ List of Resources
 - https://github.com/0xInfection/Awesome-WAF
 - https://github.com/0xtavian/awesome-attack-surface-monitoring
 - https://github.com/6mile/DevSecOps-Playbook
+- https://gitlab.com/syntax-ir/playbooks/-/tree/main/IRP-Ransom
+- https://github.com/tldr-devops/startpack
+- https://github.com/drduh/YubiKey-Guide
 
 
 [Games Programming]
@@ -87,6 +92,7 @@ List of Resources
 - https://github.com/radian-software/straight.el
 - https://lucidmanager.org/tags/emacs/
 - https://emacs.amodernist.com/
+- https://systemcrafters.net/emacs-from-scratch/basics-of-emacs-configuration/
 
 [Org-Mode]
 - https://ox-hugo.scripter.co/
@@ -120,6 +126,8 @@ List of Resources
 
 [Python]
 - https://github.com/webartifex/intro-to-python
+- https://github.com/pysemtec/semantic-python-overview
+- https://gto76.github.io/python-cheatsheet/
 
 [Ethical Hacking]
 - https://offsec.tools/
@@ -145,6 +153,8 @@ List of Resources
 - https://github.com/bitsadmin/chophound
 - https://github.com/KaanSK/shomon
 - https://yaraify.abuse.ch/
+- https://infocon.org/infocon.org-css/infocon-about.html
+- https://github.com/six2dez/reconftw?mc_cid=6fad8ee18b&mc_eid=f08221a04e
 
 [Note-Taking]
 - https://github.com/cu/silicon
@@ -165,6 +175,7 @@ List of Resources
 - https://github.com/p1ngul1n0/blackbird
 - https://github.com/xnl-h4ck3r/waymore
 - https://github.com/3nock/OTE
+- https://www.secjuice.com/landing-your-first-job-in-osint/
 
 [Code Editing]
 - https://pulsar-edit.dev/
@@ -182,6 +193,8 @@ List of Resources
 - https://gitlab.com/ck-s-technology-news/privacy-tools-list-by-cktn
 - https://github.com/auctors/free-lunch
 - https://security-list.js.org/#/
+- https://github.com/Lissy93/personal-security-checklist?utm_source=pocket_mylist&mc_cid=6fad8ee18b&mc_eid=f08221a04e
+- https://github.com/grugq/security_guides
 
 [OSCP - Offensive Security Certified Professional]
 - https://github.com/shreyaschavhan/oscp-pre-preparation-plan-and-notes
@@ -214,6 +227,9 @@ List of Resources
 
 [PKM - Personal Knowledge Management]
 - https://www.dsebastien.net/2022-04-03-25-years-of-personal-knowledge-management/
+- https://github.com/Roznoshchik/Lurnby
+- https://github.com/Uzay-G/espial
+- https://phonetonote.com/blog/my-personal-note-taking-journey/
 
 [Reverse Engineering]
 - https://github.com/rizinorg/cutter
@@ -224,3 +240,8 @@ List of Resources
 
 [Git]
 - https://git-fork.com/
+
+[Malware Analysis]
+- https://www.virusshare.com/
+- https://www.malware-traffic-analysis.net/
+- https://www.vx-underground.org/#E:/root
