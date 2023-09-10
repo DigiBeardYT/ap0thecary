@@ -4,11 +4,6 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
-
-
-[OSCP - Offensive Security Certified Professional]
-- https://github.com/shreyaschavhan/oscp-pre-preparation-plan-and-notes
-
 [Bug Bounty]
 - https://www.ceos3c.com/security/get-started-with-bug-bounties/
 - https://github.com/stevemcilwain/quiver
