@@ -4,13 +4,6 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
-[Infosec News]
-- https://0dayfans.com/
-- https://dayzerosec.com/
-- https://github.com/foorilla/allinfosecnews_sources
-- https://github.com/karimhabush/cyberowl
-- https://news.t0.vc/#
-
 [Security]
 - https://github.com/LetsDefend/awesome-soc-analyst
 - https://github.com/sbilly/awesome-security
