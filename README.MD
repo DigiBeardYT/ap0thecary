@@ -4,8 +4,7 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
-[Git]
-- https://git-fork.com/
+
 
 [Malware Analysis]
 - https://www.virusshare.com/
