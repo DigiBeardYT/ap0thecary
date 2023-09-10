@@ -4,17 +4,6 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
-
-
-
-
-
-[Scripting + Programming]
-- https://github.com/BinsonBuzz/unraid_rclone_mount
-- https://github.com/bermi/password-generator
-- https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fp1i8awsivji51.jpg
-- https://www.guardara.com/
-
 [Bash]
 - https://github.com/dylanaraps/pure-bash-bible
 - https://m10k.eu/toolbox.html
