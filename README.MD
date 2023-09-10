@@ -4,11 +4,6 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
-[Python]
-- https://github.com/webartifex/intro-to-python
-- https://github.com/pysemtec/semantic-python-overview
-- https://gto76.github.io/python-cheatsheet/
-
 [Ethical Hacking]
 - https://offsec.tools/
 - https://github.com/LafiAlmutairi/Pentest-Handbook
