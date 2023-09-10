@@ -4,10 +4,6 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
-[General Computing]
-- The Five Pillars - https://github.com/DFIRmadness/5pillars
-- https://rafeeqrehman.com/wp-content/uploads/2023/03/CISO_Mindmap-2023.pdf
-
 [Computer Networking]
 - https://github.com/Hakky54/mutual-tls-ssl
 - https://github.com/opsdisk/the_cyber_plumbers_handbook
