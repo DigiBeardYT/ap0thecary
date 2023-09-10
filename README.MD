@@ -4,13 +4,6 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
-[Vim/Neovim]
-- https://bhupesh.me/writing-like-a-pro-with-vale-and-neovim/
-- https://vimawesome.com/
-- https://framal.xyz/why-ive-spent-my-easter-break-customizing-neovim/
-- https://vim.rtorr.com/
-- https://github.com/nvim-neorg/neorg
-
 [Zsh]
 - https://zimfw.sh/
 
