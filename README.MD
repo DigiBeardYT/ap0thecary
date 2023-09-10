@@ -4,8 +4,7 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
-[Zsh]
-- https://zimfw.sh/
+
 
 [OSCP Prep]
 - https://github.com/4ut0m4t0n/alacarte
