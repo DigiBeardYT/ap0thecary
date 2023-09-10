@@ -10,6 +10,9 @@ List of Resources
 
 [Computer Networking]
 
+[Getting Hired]
+- https://github.com/INIT6Source/Hacker_Hiring_Discords
+
 [IPS - Intrusion Prevention System]
 - https://github.com/stratosphereips/StratosphereLinuxIPS/tree/master
 
@@ -25,6 +28,7 @@ List of Resources
 - https://sharats.me/posts/shell-script-best-practices/
 - https://github.com/fastily/cheatsheet
 - https://github.com/microsoft/Codex-CLI
+- https://effective-shell.com/
 
 [Linux]
 - https://mitxela.com/projects/dotfiles_management
@@ -68,6 +72,11 @@ List of Resources
 - https://github.com/Vidianos-Giannitsis/zetteldesk.el
 - https://github.com/rougier/nano-emacs
 - https://protesilaos.com/emacs/denote
+- https://github.com/radian-software/straight.el
+
+[Vim/Neovim]
+- https://bhupesh.me/writing-like-a-pro-with-vale-and-neovim/
+- https://vimawesome.com/
 
 [OSCP Prep]
 - https://github.com/4ut0m4t0n/alacarte
@@ -75,6 +84,7 @@ List of Resources
 - https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob
 - https://github.com/mrtechghost/oscp-dashboard/blob/main/README.md
 - https://github.com/avi7611/Oscp-Cheat-Sheet/tree/master/oscp
+- https://github.com/rodolfomarianocy/OSCP-Tricks-2023
 
 [Javascript]
 - https://github.com/30-seconds/30-seconds-of-code
@@ -108,6 +118,7 @@ List of Resources
 - https://github.com/xnl-h4ck3r/GAP-Burp-Extension
 - https://github.com/bitsadmin/chophound
 - https://github.com/KaanSK/shomon
+- https://yaraify.abuse.ch/
 
 [Note-Taking]
 - https://github.com/cu/silicon
@@ -136,6 +147,8 @@ List of Resources
 - https://github.com/lissy93/awesome-privacy
 - https://cyb3rsecurity.tips/p/-online-privacy-to-what-extent-should
 - https://garrit.xyz/posts/2021-04-07-pgp-guide
+- https://safing.io/download/
+- https://github.com/iamadamdev/bypass-paywalls-chrome/blob/master/README.md
 
 [OSCP - Offensive Security Certified Professional]
 - https://github.com/shreyaschavhan/oscp-pre-preparation-plan-and-notes
@@ -145,6 +158,7 @@ List of Resources
 - https://github.com/stevemcilwain/quiver
 - https://github.com/ksharinarayanan/bash-hacks
 - https://github.com/ksharinarayanan/SSRFire
+- https://github.com/daffainfo/Oneliner-Bugbounty
 
 [Podcasts]
 - https://open.spotify.com/show/4pqEFAjIUuax0wQUCxjS2L?si=0c28f8ec3fac4072&nd=1
