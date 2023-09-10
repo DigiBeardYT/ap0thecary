@@ -29,6 +29,7 @@ List of Resources
 - https://github.com/fastily/cheatsheet
 - https://github.com/microsoft/Codex-CLI
 - https://effective-shell.com/
+- https://github.com/terror/present
 
 [Linux]
 - https://mitxela.com/projects/dotfiles_management
@@ -180,3 +181,6 @@ List of Resources
 
 [Reverse Engineering]
 - https://github.com/rizinorg/cutter
+
+[Twitch Streams]
+- https://infosecstreams.com/
