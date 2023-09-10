@@ -1,0 +1,2 @@
+[Zsh]
+- https://zimfw.sh/
