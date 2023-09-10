@@ -4,9 +4,7 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
-[Learning]
-- https://github.com/trane-project/trane
-- https://github.com/abishekmuthian/memory-hammer
+
 
 [PKM - Personal Knowledge Management]
 - https://www.dsebastien.net/2022-04-03-25-years-of-personal-knowledge-management/
