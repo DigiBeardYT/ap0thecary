@@ -1,0 +1,11 @@
+[Note-Taking]
+- https://github.com/cu/silicon
+- https://lazy.so/
+- https://github.com/zadam/trilium
+- https://github.com/zadam/trilium/wiki/Patterns-of-personal-knowledge-base
+- https://gitlab.com/andrejr/zetk
+- https://notion.so
+- https://obsidian.md
+- https://prose.sh/
+- https://capacities.io/
+- https://github.com/batnoter/batnoter
