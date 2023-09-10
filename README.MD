@@ -10,6 +10,7 @@ List of Resources
 
 [Computer Networking]
 - https://github.com/Hakky54/mutual-tls-ssl
+- https://github.com/opsdisk/the_cyber_plumbers_handbook
 
 [Network Analysis]
 - https://pts-project.org/
@@ -70,13 +71,17 @@ List of Resources
 - https://gitlab.com/syntax-ir/playbooks/-/tree/main/IRP-Ransom
 - https://github.com/tldr-devops/startpack
 - https://github.com/drduh/YubiKey-Guide
-
+- https://github.com/hslatman/awesome-threat-intelligence
+- https://github.com/Penetrum-Security/Security-List
+- https://resource.dreadsec.me/
+- https://threatfeeds.io/
 
 [Games Programming]
 - https://github.com/raysan5/raylib
 - https://github.com/OpenRA/OpenRA
 - https://github.com/tiltedphoques/TiltedEvolution
 - https://github.com/TheAssemblyArmada/Vanilla-Conquer
+- https://github.com/leereilly/games
 
 [AI]
 - https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y
@@ -106,6 +111,8 @@ List of Resources
 - https://bhupesh.me/writing-like-a-pro-with-vale-and-neovim/
 - https://vimawesome.com/
 - https://framal.xyz/why-ive-spent-my-easter-break-customizing-neovim/
+- https://vim.rtorr.com/
+- https://github.com/nvim-neorg/neorg
 
 [Zsh]
 - https://zimfw.sh/
@@ -155,6 +162,7 @@ List of Resources
 - https://yaraify.abuse.ch/
 - https://infocon.org/infocon.org-css/infocon-about.html
 - https://github.com/six2dez/reconftw?mc_cid=6fad8ee18b&mc_eid=f08221a04e
+- https://teqnix.io/ 
 
 [Note-Taking]
 - https://github.com/cu/silicon
@@ -205,6 +213,7 @@ List of Resources
 - https://github.com/ksharinarayanan/bash-hacks
 - https://github.com/ksharinarayanan/SSRFire
 - https://github.com/daffainfo/Oneliner-Bugbounty
+- https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/README.md
 
 [Podcasts]
 - https://open.spotify.com/show/4pqEFAjIUuax0wQUCxjS2L?si=0c28f8ec3fac4072&nd=1
@@ -230,6 +239,9 @@ List of Resources
 - https://github.com/Roznoshchik/Lurnby
 - https://github.com/Uzay-G/espial
 - https://phonetonote.com/blog/my-personal-note-taking-journey/
+- https://abishekmuthian.com/my-hacker-news-knowledge-assimilation-stack/
+- https://whizzoe.medium.com/how-i-built-a-productivity-system-in-notion-with-template-4dfe1fa6f84f
+- https://betterhumans.pub/how-to-implement-a-killer-gtd-system-in-google-sheets-ad9c9857a8bd
 
 [Reverse Engineering]
 - https://github.com/rizinorg/cutter
