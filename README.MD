@@ -10,7 +10,6 @@ This is now a staging area for the links as I parse through them, currently the 
 [Dot Files]
 
 [Games Programming]
-- https://docs.google.com/spreadsheets/d/1ingVlCEftStqau1KjGqm0P7M44YlY3G5H2rCD0aSXDY/edit#gid=63342903
 
 [Web Dev]
 - https://www-pushaune-com.translate.goog/blog/tutos-html-css/ultimate-css-cheat-sheet/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US
