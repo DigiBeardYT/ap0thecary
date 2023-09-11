@@ -5,3 +5,4 @@
 - https://github.com/mrtechghost/oscp-dashboard/blob/main/README.md
 - https://github.com/avi7611/Oscp-Cheat-Sheet/tree/master/oscp
 - https://github.com/rodolfomarianocy/OSCP-Tricks-2023
+- https://github.com/shreyaschavhan/oscp-pre-preparation-plan-and-notes
