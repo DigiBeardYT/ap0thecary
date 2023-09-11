@@ -46,6 +46,7 @@ This is now a staging area for the links as I parse through them, currently the 
 - https://thirsty-larch-4f1.notion.site/GTD-Template-8f8567a5a4ff4034824ce11ce5313614
 - https://www.youtube.com/watch?v=OP3dA2GcAh8
 - https://fortelabs.com/blog/para/
+- https://medium.com/@stanschwartz/a-simple-zettelkasten-for-the-21st-century-e66a032550dc
 
 [Haskell]
 - https://github.com/krispo/awesome-haskell
@@ -64,6 +65,7 @@ This is now a staging area for the links as I parse through them, currently the 
 - https://github.com/dwmkerr/hacker-laws
 - https://missing.csail.mit.edu/
 - https://chrissanders.org/training/cuckoosegg/
+- https://teachyourselfcs.com/
 
 [Ethical Hacking]
 - https://github.com/niespodd/browser-fingerprinting
@@ -91,6 +93,7 @@ This is now a staging area for the links as I parse through them, currently the 
 - https://bztsrc.gitlab.io/usbimager/
 - https://news.ycombinator.com/item?id=30723738
 - https://mutschler.dev/linux/fedora-post-install/
+- https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/
 
 [Maker Resources]
 - https://pibox.io/
@@ -114,6 +117,8 @@ This is now a staging area for the links as I parse through them, currently the 
 - https://github.com/fiatjaf/awesome-loginless
 - https://github.com/upgundecha/howtheysre
 - http://thehive-project.org/
+- https://www.youtube.com/watch?v=r1ZEw_3xVNA
+- https://github.com/SwiftOnSecurity/sysmon-config
 
 [Backups]
 - https://sysadmin.libhunt.com/categories/1723-backups
@@ -149,6 +154,7 @@ This is now a staging area for the links as I parse through them, currently the 
 - https://www.youtube.com/playlist?list=PLDrNMcTNhhYqZU1ySROli7Oc08mxe1tZR
 - https://github.com/whoisflynn/OSCP-Exam-Report-Template
 - https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html
+- https://steflan-security.com/complete-guide-to-stack-buffer-overflow-oscp/
 
 [Org-Mode]
 - https://karl-voit.at/2021/11/27/orgdown/
@@ -182,3 +188,11 @@ This is now a staging area for the links as I parse through them, currently the 
 
 [Reverse Engineering]
 - https://wrongbaud.github.io/posts/stm-xbox-jtag/
+
+[Privilege Escalation]
+- https://steflan-security.com/windows-privilege-escalation-cheat-sheet/
+- https://steflan-security.com/linux-privilege-escalation-checklist/
+
+[DFIR]
+- https://start.me/p/jj0B26/dfir
+
