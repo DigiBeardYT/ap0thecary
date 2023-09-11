@@ -1,2 +1,14 @@
 [Maker Resources]
 - https://github.com/oshaboy/awesome-indie-handhelds
+- https://pibox.io/
+- https://getleon.ai/
+- https://blog.alexellis.io/your-pocket-sized-cloud/
+- https://irchiver.com/
+- https://github.com/kholia/OSX-KVM
+- https://github.com/edgartaor/kindleServer
+- https://github.com/Watchful1/Sketchpad/tree/master
+- http://www.whatimade.today/make-an-automatic-router-re-starter-for-3-with-an-esp8266-01-and-single-relay/
+- https://github.com/Yacob135/ESP8266_weather_station
+- https://www.youtube.com/playlist?list=PL926EC0F1F93C1837
+- https://github.com/thibmaek/awesome-raspberry-pi
+- https://github.com/joeycastillo/The-Open-Book
