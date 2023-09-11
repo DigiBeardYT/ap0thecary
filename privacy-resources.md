@@ -13,3 +13,15 @@
 - https://security-list.js.org/#/
 - https://github.com/Lissy93/personal-security-checklist?utm_source=pocket_mylist&mc_cid=6fad8ee18b&mc_eid=f08221a04e
 - https://github.com/grugq/security_guides
+- https://aeon.co/essays/privacy-matters-because-it-empowers-us-all
+- https://cypherpunks.venona.com/date/1993/04/msg00559.html
+- https://beepb00p.xyz/my-data.html
+- https://medium.ethyca.com/devtools-for-data-privacy-step-1-privacy-taxonomy-v1-0-9e5e52bf42ea
+- https://github.com/aronmolnar/smartphone-hardening-guide
+- https://news.ycombinator.com/item?id=28838329
+- https://kevincox.ca/2021/05/06/workstation-install-with-nixos/
+- https://github.com/vmstan/gravity-sync
+- https://github.com/0x192/universal-android-debloater
+- https://www.whonix.org/wiki/Documentation
+- https://github.com/yubiuser/pihole_adlist_tool
+- https://paranoidsbible.tumblr.com/
