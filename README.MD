@@ -5,8 +5,7 @@ As you’re browsing through my curated links, you might decide you want to visi
 This is now a staging area for the links as I parse through them, currently the links are split out across various markdown files. Soon this will point to all of them but that comes in the future.
 
 [Python]
-- https://github.com/webartifex/intro-to-python
-- https://thenextweb.com/news/a-beginners-guide-to-data-visualization-with-python-and-seaborn
+
 
 [Dot Files]
 - https://github.com/webpro/awesome-dotfiles
