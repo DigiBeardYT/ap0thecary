@@ -25,3 +25,4 @@
 - https://www.whonix.org/wiki/Documentation
 - https://github.com/yubiuser/pihole_adlist_tool
 - https://paranoidsbible.tumblr.com/
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565
