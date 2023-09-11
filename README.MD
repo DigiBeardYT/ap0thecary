@@ -35,11 +35,7 @@ This is now a staging area for the links as I parse through them, currently the 
 [Note-Taking]
 
 [Linux]
-- https://github.com/smittix/fedora-setup
-- https://bztsrc.gitlab.io/usbimager/
-- https://news.ycombinator.com/item?id=30723738
-- https://mutschler.dev/linux/fedora-post-install/
-- https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/
+
 
 [Maker Resources]
 - https://pibox.io/
