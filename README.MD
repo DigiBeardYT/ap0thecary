@@ -47,10 +47,7 @@ This is now a staging area for the links as I parse through them, currently the 
 [Tech News]
 
 [OSINT]
-- https://psyche.co/guides/how-to-solve-problems-by-thinking-like-a-detective
-- https://map.malfrats.industries/
-- https://www.csoonline.com/article/567859/what-is-osint-top-open-source-intelligence-tools.html
-- https://www.youtube.com/watch?v=J4_rRn0cFew
+
 
 
 [Malware Analysis]
