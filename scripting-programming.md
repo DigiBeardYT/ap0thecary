@@ -3,3 +3,4 @@
 - https://github.com/bermi/password-generator
 - https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fp1i8awsivji51.jpg
 - https://www.guardara.com/
+- https://github.com/krispo/awesome-haskell
