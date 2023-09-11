@@ -25,3 +25,5 @@
 - https://infocon.org/infocon.org-css/infocon-about.html
 - https://github.com/six2dez/reconftw?mc_cid=6fad8ee18b&mc_eid=f08221a04e
 - https://teqnix.io/ 
+- https://github.com/niespodd/browser-fingerprinting
+- https://urlscan.io/
