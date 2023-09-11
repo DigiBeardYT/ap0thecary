@@ -40,12 +40,7 @@ This is now a staging area for the links as I parse through them, currently the 
 [Maker Resources]
 
 [Sysadmin Resources]
-- https://github.com/awesome-foss/awesome-sysadmin
-- https://github.com/fiatjaf/awesome-loginless
-- https://github.com/upgundecha/howtheysre
-- http://thehive-project.org/
-- https://www.youtube.com/watch?v=r1ZEw_3xVNA
-- https://github.com/SwiftOnSecurity/sysmon-config
+
 
 [Backups]
 - https://sysadmin.libhunt.com/categories/1723-backups
