@@ -10,6 +10,12 @@ This is now a staging area for the links as I parse through them, currently the 
 [Dot Files]
 - https://github.com/webpro/awesome-dotfiles
 
+[Games Programming]
+- https://docs.google.com/spreadsheets/d/1ingVlCEftStqau1KjGqm0P7M44YlY3G5H2rCD0aSXDY/edit#gid=63342903
+
+[Web Dev]
+- https://www-pushaune-com.translate.goog/blog/tutos-html-css/ultimate-css-cheat-sheet/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US
+
 [pkm]
 - https://aseemthakar.com/how-to-build-a-second-brain-as-a-software-developer/
 - https://scribe.rip/datadriveninvestor.com/how-to-revolutionize-your-tagging-system-to-get-the-best-out-of-your-pkm-721d23721092
@@ -34,6 +40,9 @@ This is now a staging area for the links as I parse through them, currently the 
 - https://github.com/pyrochlore/obsidian-tracker
 - https://plaintext-productivity.net/
 - https://zettelkasten.de/posts/when-start-new-note/
+- https://zenhabits.net/zen-to-done-ztd-the-ultimate-simple-productivity-system/
+- https://iampax.scribe.rip/zettelkasten-method-with-obsidian-how-to-take-smart-notes-with-examples-cdaf348febbd
+- https://thirsty-larch-4f1.notion.site/GTD-Template-8f8567a5a4ff4034824ce11ce5313614
 
 [Haskell]
 - https://github.com/krispo/awesome-haskell
@@ -52,7 +61,8 @@ This is now a staging area for the links as I parse through them, currently the 
 - https://github.com/dwmkerr/hacker-laws
 
 [Ethical Hacking]
-https://github.com/niespodd/browser-fingerprinting
+- https://github.com/niespodd/browser-fingerprinting
+- https://urlscan.io/
 
 [Privacy]
 - https://aeon.co/essays/privacy-matters-because-it-empowers-us-all
@@ -65,6 +75,7 @@ https://github.com/niespodd/browser-fingerprinting
 - https://github.com/vmstan/gravity-sync
 - https://github.com/0x192/universal-android-debloater
 - https://www.whonix.org/wiki/Documentation
+- https://github.com/yubiuser/pihole_adlist_tool
 
 [Note-Taking]
 - https://github.com/outline/outline
@@ -84,6 +95,8 @@ https://github.com/niespodd/browser-fingerprinting
 - https://github.com/edgartaor/kindleServer
 - https://github.com/Watchful1/Sketchpad/tree/master
 - http://www.whatimade.today/make-an-automatic-router-re-starter-for-3-with-an-esp8266-01-and-single-relay/
+- https://github.com/Yacob135/ESP8266_weather_station
+- https://www.youtube.com/playlist?list=PL926EC0F1F93C1837
 
 [Computer Networking]
 - https://github.com/sk3pp3r/cheat-sheet-pdf
@@ -91,6 +104,7 @@ https://github.com/niespodd/browser-fingerprinting
 [Sysadmin Resources]
 - https://github.com/awesome-foss/awesome-sysadmin
 - https://github.com/fiatjaf/awesome-loginless
+- https://github.com/upgundecha/howtheysre
 
 [Backups]
 - https://sysadmin.libhunt.com/categories/1723-backups
@@ -102,6 +116,7 @@ https://github.com/niespodd/browser-fingerprinting
 - https://psyche.co/guides/how-to-solve-problems-by-thinking-like-a-detective
 - https://map.malfrats.industries/
 - https://www.csoonline.com/article/567859/what-is-osint-top-open-source-intelligence-tools.html
+- https://www.youtube.com/watch?v=J4_rRn0cFew
 
 
 [Malware Analysis]
@@ -109,6 +124,7 @@ https://github.com/niespodd/browser-fingerprinting
 - https://www.kaggle.com/datasets
 - https://datasetsearch.research.google.com/
 - https://github.com/d4rksystem/VBoxCloak
+- https://github.com/ytisf/theZoo
 
 [Student Discounts]
 - https://github.com/ripienaar/free-for-dev
@@ -133,6 +149,23 @@ https://github.com/niespodd/browser-fingerprinting
 [How-to]
 - https://docs.ibracorp.io/virtual-unraid/
 - https://what2log.com/
+- https://github.com/unreadablewxy/fs-curator
 
 [Web Design]
 - https://github.com/WebDevsCom/webDevsCom
+
+[Ethical Hacking]
+- https://www.youtube.com/watch?v=D2t4ADQnBEk
+- https://verysecret.agency/
+- https://github.com/xChockax/Privilege_Escalation
+- https://github.com/wtsxDev/Penetration-Testing/blob/master/README.md
+- https://github.com/yassirlaaouissi
+- https://www.tunnelsup.com/contents-of-a-physical-pen-testers-backpack/
+- https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md
+- https://github.com/trimstray/the-practical-linux-hardening-guide
+
+[Getting Hired]
+- https://github.com/yangshun/tech-interview-handbook
+
+[Reverse Engineering]
+- https://wrongbaud.github.io/posts/stm-xbox-jtag/
