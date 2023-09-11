@@ -45,7 +45,6 @@ This is now a staging area for the links as I parse through them, currently the 
 [Backups]
 
 [Tech News]
-- https://greycoder.com/a-list-of-text-only-new-sites/
 
 [OSINT]
 - https://psyche.co/guides/how-to-solve-problems-by-thinking-like-a-detective
