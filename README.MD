@@ -22,7 +22,6 @@ This is now a staging area for the links as I parse through them, currently the 
 - https://writing-resources.github.io/awesome-scientific-writing/
 
 [Computer Networking]
-- https://labs.ripe.net/author/christer-weinigel/best-practices-for-connecting-to-ntp-servers/
 
 [Learning]
 
