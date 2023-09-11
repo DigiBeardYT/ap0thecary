@@ -64,6 +64,7 @@ https://github.com/niespodd/browser-fingerprinting
 - https://kevincox.ca/2021/05/06/workstation-install-with-nixos/
 - https://github.com/vmstan/gravity-sync
 - https://github.com/0x192/universal-android-debloater
+- https://www.whonix.org/wiki/Documentation
 
 [Note-Taking]
 - https://github.com/outline/outline
@@ -72,6 +73,7 @@ https://github.com/niespodd/browser-fingerprinting
 - https://github.com/smittix/fedora-setup
 - https://bztsrc.gitlab.io/usbimager/
 - https://news.ycombinator.com/item?id=30723738
+- https://mutschler.dev/linux/fedora-post-install/
 
 [Maker Resources]
 - https://pibox.io/
