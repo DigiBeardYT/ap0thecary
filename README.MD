@@ -39,10 +39,6 @@ This is now a staging area for the links as I parse through them, currently the 
 
 [Maker Resources]
 
-
-[Computer Networking]
-- https://github.com/sk3pp3r/cheat-sheet-pdf
-
 [Sysadmin Resources]
 - https://github.com/awesome-foss/awesome-sysadmin
 - https://github.com/fiatjaf/awesome-loginless
