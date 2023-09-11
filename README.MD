@@ -43,7 +43,6 @@ This is now a staging area for the links as I parse through them, currently the 
 
 
 [Backups]
-- https://sysadmin.libhunt.com/categories/1723-backups
 
 [Tech News]
 - https://greycoder.com/a-list-of-text-only-new-sites/
