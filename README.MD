@@ -27,6 +27,9 @@ List of Resources
 - https://www.youtube.com/watch?v=fBl0v-AcAKo
 - https://craigrettew.medium.com/unf-ck-your-digital-file-system-c237ff4a7d39
 - https://logseq.com/
+- https://zk.zettel.page/
+- https://github.com/pyrochlore/obsidian-tracker
+- https://plaintext-productivity.net/
 
 [Haskell]
 - https://github.com/krispo/awesome-haskell
@@ -42,6 +45,7 @@ List of Resources
 - https://www.digitalocean.com/community/tutorials?subtype=-tech_talk
 - https://cse.buffalo.edu/~rapaport/howtostudy.html
 - https://functionalcs.github.io/curriculum/
+- https://github.com/dwmkerr/hacker-laws
 
 [Ethical Hacking]
 https://github.com/niespodd/browser-fingerprinting
@@ -53,6 +57,7 @@ https://github.com/niespodd/browser-fingerprinting
 - https://medium.ethyca.com/devtools-for-data-privacy-step-1-privacy-taxonomy-v1-0-9e5e52bf42ea
 - https://github.com/aronmolnar/smartphone-hardening-guide
 - https://news.ycombinator.com/item?id=28838329
+- https://kevincox.ca/2021/05/06/workstation-install-with-nixos/
 
 [Note-Taking]
 - https://github.com/outline/outline
@@ -60,11 +65,15 @@ https://github.com/niespodd/browser-fingerprinting
 [Linux]
 - https://github.com/smittix/fedora-setup
 - https://bztsrc.gitlab.io/usbimager/
+- https://news.ycombinator.com/item?id=30723738
 
 [Maker Resources]
 - https://pibox.io/
 - https://getleon.ai/
 - https://blog.alexellis.io/your-pocket-sized-cloud/
+- https://irchiver.com/
+- https://github.com/kholia/OSX-KVM
+- https://github.com/edgartaor/kindleServer
 
 [Computer Networking]
 - https://github.com/sk3pp3r/cheat-sheet-pdf
@@ -81,6 +90,7 @@ https://github.com/niespodd/browser-fingerprinting
 
 [OSINT]
 - https://psyche.co/guides/how-to-solve-problems-by-thinking-like-a-detective
+- https://map.malfrats.industries/
 
 [Malware Analysis]
 - https://github.com/sophos/SOREL-20M
@@ -103,3 +113,6 @@ https://github.com/niespodd/browser-fingerprinting
 
 [Org-Mode]
 - https://karl-voit.at/2021/11/27/orgdown/
+
+[Bug Bounty]
+- https://joern.io/
