@@ -27,8 +27,7 @@ This is now a staging area for the links as I parse through them, currently the 
 
 
 [Ethical Hacking]
-- https://github.com/niespodd/browser-fingerprinting
-- https://urlscan.io/
+
 
 [Privacy]
 - https://aeon.co/essays/privacy-matters-because-it-empowers-us-all
