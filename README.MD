@@ -14,35 +14,7 @@ This is now a staging area for the links as I parse through them, currently the 
 [Web Dev]
 
 [pkm]
-- https://aseemthakar.com/how-to-build-a-second-brain-as-a-software-developer/
-- https://scribe.rip/datadriveninvestor.com/how-to-revolutionize-your-tagging-system-to-get-the-best-out-of-your-pkm-721d23721092
-- https://github.com/slowernews/hamster-system
-- https://github.com/BenHerbst/idaesbasic
-- https://leananki.com/zettelkasten-method-smart-notes/
-- https://forum.obsidian.md/t/how-do-i-get-content-from-websites-into-my-notes/1738/36
-- https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/
-- https://github.com/mholt/timeliner
-- https://nicolevanderhoeven.com/blog/20210518-how-i-use-obsidian-at-work/
-- https://forum.obsidian.md/t/para-starter-kit/223
-- https://web.archive.org/web/20220125173935/https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base
-- https://github.com/argenos/zotero-mdnotes
-- https://forum.obsidian.md/t/ideaverse-for-obsidian-formerly-the-lyt-kit-now-available/390
-- https://forum.obsidian.md/t/obsidian-zettelkasten/1999
-- https://www.youtube.com/watch?v=SjZSy8s2VEE
-- https://www.youtube.com/watch?v=eUcIUZqhZwo
-- https://www.youtube.com/watch?v=fBl0v-AcAKo
-- https://craigrettew.medium.com/unf-ck-your-digital-file-system-c237ff4a7d39
-- https://logseq.com/
-- https://zk.zettel.page/
-- https://github.com/pyrochlore/obsidian-tracker
-- https://plaintext-productivity.net/
-- https://zettelkasten.de/posts/when-start-new-note/
-- https://zenhabits.net/zen-to-done-ztd-the-ultimate-simple-productivity-system/
-- https://iampax.scribe.rip/zettelkasten-method-with-obsidian-how-to-take-smart-notes-with-examples-cdaf348febbd
-- https://thirsty-larch-4f1.notion.site/GTD-Template-8f8567a5a4ff4034824ce11ce5313614
-- https://www.youtube.com/watch?v=OP3dA2GcAh8
-- https://fortelabs.com/blog/para/
-- https://medium.com/@stanschwartz/a-simple-zettelkasten-for-the-21st-century-e66a032550dc
+
 
 [Haskell]
 - https://github.com/krispo/awesome-haskell
