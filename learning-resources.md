@@ -1,3 +1,11 @@
 [Learning]
 - https://github.com/trane-project/trane
 - https://github.com/abishekmuthian/memory-hammer
+- https://laconicml.com/computer-science-curriculum-youtube-videos/
+- https://www.digitalocean.com/community/tutorials?subtype=-tech_talk
+- https://cse.buffalo.edu/~rapaport/howtostudy.html
+- https://functionalcs.github.io/curriculum/
+- https://github.com/dwmkerr/hacker-laws
+- https://missing.csail.mit.edu/
+- https://chrissanders.org/training/cuckoosegg/
+- https://teachyourselfcs.com/
