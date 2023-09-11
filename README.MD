@@ -25,14 +25,7 @@ This is now a staging area for the links as I parse through them, currently the 
 - https://labs.ripe.net/author/christer-weinigel/best-practices-for-connecting-to-ntp-servers/
 
 [Learning]
-- https://laconicml.com/computer-science-curriculum-youtube-videos/
-- https://www.digitalocean.com/community/tutorials?subtype=-tech_talk
-- https://cse.buffalo.edu/~rapaport/howtostudy.html
-- https://functionalcs.github.io/curriculum/
-- https://github.com/dwmkerr/hacker-laws
-- https://missing.csail.mit.edu/
-- https://chrissanders.org/training/cuckoosegg/
-- https://teachyourselfcs.com/
+
 
 [Ethical Hacking]
 - https://github.com/niespodd/browser-fingerprinting
