@@ -9,3 +9,4 @@
 - https://prose.sh/
 - https://capacities.io/
 - https://github.com/batnoter/batnoter
+- https://github.com/outline/outline
