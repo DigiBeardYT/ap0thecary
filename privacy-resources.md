@@ -26,3 +26,4 @@
 - https://github.com/yubiuser/pihole_adlist_tool
 - https://paranoidsbible.tumblr.com/
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565
+- https://duckduckgo.com/download/Win10_Privacy_Tips.pdf
