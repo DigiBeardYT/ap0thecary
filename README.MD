@@ -17,7 +17,6 @@ This is now a staging area for the links as I parse through them, currently the 
 
 
 [Haskell]
-- https://github.com/krispo/awesome-haskell
 
 [Technical Writing]
 - https://writing-resources.github.io/awesome-scientific-writing/
