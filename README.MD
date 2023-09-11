@@ -4,8 +4,11 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 List of Resources
 
+[Python]
+- https://github.com/webartifex/intro-to-python
 
-
+[Dot Files]
+- https://github.com/webpro/awesome-dotfiles
 
 [pkm]
 - https://aseemthakar.com/how-to-build-a-second-brain-as-a-software-developer/
@@ -30,6 +33,7 @@ List of Resources
 - https://zk.zettel.page/
 - https://github.com/pyrochlore/obsidian-tracker
 - https://plaintext-productivity.net/
+- https://zettelkasten.de/posts/when-start-new-note/
 
 [Haskell]
 - https://github.com/krispo/awesome-haskell
@@ -58,6 +62,8 @@ https://github.com/niespodd/browser-fingerprinting
 - https://github.com/aronmolnar/smartphone-hardening-guide
 - https://news.ycombinator.com/item?id=28838329
 - https://kevincox.ca/2021/05/06/workstation-install-with-nixos/
+- https://github.com/vmstan/gravity-sync
+- https://github.com/0x192/universal-android-debloater
 
 [Note-Taking]
 - https://github.com/outline/outline
@@ -74,6 +80,8 @@ https://github.com/niespodd/browser-fingerprinting
 - https://irchiver.com/
 - https://github.com/kholia/OSX-KVM
 - https://github.com/edgartaor/kindleServer
+- https://github.com/Watchful1/Sketchpad/tree/master
+- http://www.whatimade.today/make-an-automatic-router-re-starter-for-3-with-an-esp8266-01-and-single-relay/
 
 [Computer Networking]
 - https://github.com/sk3pp3r/cheat-sheet-pdf
@@ -91,6 +99,8 @@ https://github.com/niespodd/browser-fingerprinting
 [OSINT]
 - https://psyche.co/guides/how-to-solve-problems-by-thinking-like-a-detective
 - https://map.malfrats.industries/
+- https://www.csoonline.com/article/567859/what-is-osint-top-open-source-intelligence-tools.html
+
 
 [Malware Analysis]
 - https://github.com/sophos/SOREL-20M
@@ -110,9 +120,17 @@ https://github.com/niespodd/browser-fingerprinting
 
 [OSCP]
 - https://www.youtube.com/playlist?list=PLDrNMcTNhhYqZU1ySROli7Oc08mxe1tZR
+- https://github.com/whoisflynn/OSCP-Exam-Report-Template
 
 [Org-Mode]
 - https://karl-voit.at/2021/11/27/orgdown/
 
 [Bug Bounty]
 - https://joern.io/
+
+[How-to]
+- https://docs.ibracorp.io/virtual-unraid/
+- https://what2log.com/
+
+[Web Design]
+- https://github.com/WebDevsCom/webDevsCom
