@@ -6,6 +6,7 @@ This is now a staging area for the links as I parse through them, currently the 
 
 [Python]
 - https://github.com/webartifex/intro-to-python
+- https://thenextweb.com/news/a-beginners-guide-to-data-visualization-with-python-and-seaborn
 
 [Dot Files]
 - https://github.com/webpro/awesome-dotfiles
@@ -43,6 +44,8 @@ This is now a staging area for the links as I parse through them, currently the 
 - https://zenhabits.net/zen-to-done-ztd-the-ultimate-simple-productivity-system/
 - https://iampax.scribe.rip/zettelkasten-method-with-obsidian-how-to-take-smart-notes-with-examples-cdaf348febbd
 - https://thirsty-larch-4f1.notion.site/GTD-Template-8f8567a5a4ff4034824ce11ce5313614
+- https://www.youtube.com/watch?v=OP3dA2GcAh8
+- https://fortelabs.com/blog/para/
 
 [Haskell]
 - https://github.com/krispo/awesome-haskell
@@ -59,6 +62,8 @@ This is now a staging area for the links as I parse through them, currently the 
 - https://cse.buffalo.edu/~rapaport/howtostudy.html
 - https://functionalcs.github.io/curriculum/
 - https://github.com/dwmkerr/hacker-laws
+- https://missing.csail.mit.edu/
+- https://chrissanders.org/training/cuckoosegg/
 
 [Ethical Hacking]
 - https://github.com/niespodd/browser-fingerprinting
@@ -76,6 +81,7 @@ This is now a staging area for the links as I parse through them, currently the 
 - https://github.com/0x192/universal-android-debloater
 - https://www.whonix.org/wiki/Documentation
 - https://github.com/yubiuser/pihole_adlist_tool
+- https://paranoidsbible.tumblr.com/
 
 [Note-Taking]
 - https://github.com/outline/outline
@@ -97,6 +103,8 @@ This is now a staging area for the links as I parse through them, currently the 
 - http://www.whatimade.today/make-an-automatic-router-re-starter-for-3-with-an-esp8266-01-and-single-relay/
 - https://github.com/Yacob135/ESP8266_weather_station
 - https://www.youtube.com/playlist?list=PL926EC0F1F93C1837
+- https://github.com/thibmaek/awesome-raspberry-pi
+- https://github.com/joeycastillo/The-Open-Book
 
 [Computer Networking]
 - https://github.com/sk3pp3r/cheat-sheet-pdf
@@ -105,6 +113,7 @@ This is now a staging area for the links as I parse through them, currently the 
 - https://github.com/awesome-foss/awesome-sysadmin
 - https://github.com/fiatjaf/awesome-loginless
 - https://github.com/upgundecha/howtheysre
+- http://thehive-project.org/
 
 [Backups]
 - https://sysadmin.libhunt.com/categories/1723-backups
@@ -139,6 +148,7 @@ This is now a staging area for the links as I parse through them, currently the 
 [OSCP]
 - https://www.youtube.com/playlist?list=PLDrNMcTNhhYqZU1ySROli7Oc08mxe1tZR
 - https://github.com/whoisflynn/OSCP-Exam-Report-Template
+- https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html
 
 [Org-Mode]
 - https://karl-voit.at/2021/11/27/orgdown/
@@ -163,6 +173,9 @@ This is now a staging area for the links as I parse through them, currently the 
 - https://www.tunnelsup.com/contents-of-a-physical-pen-testers-backpack/
 - https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md
 - https://github.com/trimstray/the-practical-linux-hardening-guide
+- https://github.com/TonyPhipps/Meerkat
+- https://github.com/Tib3rius/AutoRecon
+- https://wiki.theosintion.com/en/home
 
 [Getting Hired]
 - https://github.com/yangshun/tech-interview-handbook
