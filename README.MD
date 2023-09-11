@@ -33,7 +33,6 @@ This is now a staging area for the links as I parse through them, currently the 
 
 
 [Note-Taking]
-- https://github.com/outline/outline
 
 [Linux]
 - https://github.com/smittix/fedora-setup
