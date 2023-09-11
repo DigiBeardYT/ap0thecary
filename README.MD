@@ -8,7 +8,6 @@ This is now a staging area for the links as I parse through them, currently the 
 
 
 [Dot Files]
-- https://github.com/webpro/awesome-dotfiles
 
 [Games Programming]
 - https://docs.google.com/spreadsheets/d/1ingVlCEftStqau1KjGqm0P7M44YlY3G5H2rCD0aSXDY/edit#gid=63342903
