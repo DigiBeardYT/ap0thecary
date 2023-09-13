@@ -62,7 +62,6 @@ This is now a staging area for the links as I parse through them, currently the 
 
 
 [Org-Mode]
-- https://karl-voit.at/2021/11/27/orgdown/
 
 [Bug Bounty]
 - https://joern.io/
