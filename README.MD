@@ -56,8 +56,7 @@ This is now a staging area for the links as I parse through them, currently the 
 
 
 [Vim/NeoVim]
-- https://news.ycombinator.com/item?id=28909432
-- https://peterxjang.com/blog/how-to-learn-vim-a-four-week-plan.html
+
 
 [OSCP]
 - https://www.youtube.com/playlist?list=PLDrNMcTNhhYqZU1ySROli7Oc08mxe1tZR
