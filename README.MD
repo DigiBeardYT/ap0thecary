@@ -59,10 +59,7 @@ This is now a staging area for the links as I parse through them, currently the 
 
 
 [OSCP]
-- https://www.youtube.com/playlist?list=PLDrNMcTNhhYqZU1ySROli7Oc08mxe1tZR
-- https://github.com/whoisflynn/OSCP-Exam-Report-Template
-- https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html
-- https://steflan-security.com/complete-guide-to-stack-buffer-overflow-oscp/
+
 
 [Org-Mode]
 - https://karl-voit.at/2021/11/27/orgdown/
