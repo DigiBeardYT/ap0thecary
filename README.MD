@@ -50,11 +50,7 @@ This is now a staging area for the links as I parse through them, currently the 
 
 
 [Malware Analysis]
-- https://github.com/sophos/SOREL-20M
-- https://www.kaggle.com/datasets
-- https://datasetsearch.research.google.com/
-- https://github.com/d4rksystem/VBoxCloak
-- https://github.com/ytisf/theZoo
+
 
 [Student Discounts]
 - https://github.com/ripienaar/free-for-dev
