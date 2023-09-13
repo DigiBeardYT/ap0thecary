@@ -64,7 +64,6 @@ This is now a staging area for the links as I parse through them, currently the 
 [Org-Mode]
 
 [Bug Bounty]
-- https://joern.io/
 
 [How-to]
 - https://docs.ibracorp.io/virtual-unraid/
