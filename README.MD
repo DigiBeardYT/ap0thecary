@@ -19,7 +19,6 @@ This is now a staging area for the links as I parse through them, currently the 
 [Haskell]
 
 [Technical Writing]
-- https://writing-resources.github.io/awesome-scientific-writing/
 
 [Computer Networking]
 
