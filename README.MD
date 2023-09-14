@@ -71,17 +71,7 @@ This is now a staging area for the links as I parse through them, currently the 
 [Web Design]
 
 [Ethical Hacking]
-- https://www.youtube.com/watch?v=D2t4ADQnBEk
-- https://verysecret.agency/
-- https://github.com/xChockax/Privilege_Escalation
-- https://github.com/wtsxDev/Penetration-Testing/blob/master/README.md
-- https://github.com/yassirlaaouissi
-- https://www.tunnelsup.com/contents-of-a-physical-pen-testers-backpack/
-- https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md
-- https://github.com/trimstray/the-practical-linux-hardening-guide
-- https://github.com/TonyPhipps/Meerkat
-- https://github.com/Tib3rius/AutoRecon
-- https://wiki.theosintion.com/en/home
+
 
 [Getting Hired]
 - https://github.com/yangshun/tech-interview-handbook
