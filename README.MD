@@ -74,7 +74,6 @@ This is now a staging area for the links as I parse through them, currently the 
 
 
 [Getting Hired]
-- https://github.com/yangshun/tech-interview-handbook
 
 [Reverse Engineering]
 - https://wrongbaud.github.io/posts/stm-xbox-jtag/
