@@ -27,3 +27,14 @@
 - https://teqnix.io/ 
 - https://github.com/niespodd/browser-fingerprinting
 - https://urlscan.io/
+- https://www.youtube.com/watch?v=D2t4ADQnBEk
+- https://verysecret.agency/
+- https://github.com/xChockax/Privilege_Escalation
+- https://github.com/wtsxDev/Penetration-Testing/blob/master/README.md
+- https://github.com/yassirlaaouissi
+- https://www.tunnelsup.com/contents-of-a-physical-pen-testers-backpack/
+- https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md
+- https://github.com/trimstray/the-practical-linux-hardening-guide
+- https://github.com/TonyPhipps/Meerkat
+- https://github.com/Tib3rius/AutoRecon
+- https://wiki.theosintion.com/en/home
