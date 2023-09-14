@@ -78,8 +78,7 @@ This is now a staging area for the links as I parse through them, currently the 
 [Reverse Engineering]
 
 [Privilege Escalation]
-- https://steflan-security.com/windows-privilege-escalation-cheat-sheet/
-- https://steflan-security.com/linux-privilege-escalation-checklist/
+
 
 [DFIR]
 - https://start.me/p/jj0B26/dfir
