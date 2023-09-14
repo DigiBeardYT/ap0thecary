@@ -81,5 +81,4 @@ This is now a staging area for the links as I parse through them, currently the 
 
 
 [DFIR]
-- https://start.me/p/jj0B26/dfir
 
