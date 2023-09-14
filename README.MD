@@ -66,9 +66,7 @@ This is now a staging area for the links as I parse through them, currently the 
 [Bug Bounty]
 
 [How-to]
-- https://docs.ibracorp.io/virtual-unraid/
-- https://what2log.com/
-- https://github.com/unreadablewxy/fs-curator
+
 
 [Web Design]
 - https://github.com/WebDevsCom/webDevsCom
