@@ -6,6 +6,8 @@ This is now a staging area for the links as I parse through them, currently the 
 
 [Python]
 
+[Bash]
+- https://google.github.io/styleguide/shellguide.html
 
 [Dot Files]
 
@@ -14,7 +16,11 @@ This is now a staging area for the links as I parse through them, currently the 
 [Web Dev]
 
 [pkm]
+- https://untools.co/
+- https://anagora.org/index
 
+[Vi/Vim/Neovim]
+- https://framal.xyz/why-ive-spent-my-easter-break-customizing-neovim/
 
 [Haskell]
 
@@ -23,13 +29,14 @@ This is now a staging area for the links as I parse through them, currently the 
 [Computer Networking]
 
 [Learning]
-
+- https://github.com/jkup/awesome-personal-blogs
+- https://levelup.gitconnected.com/everything-i-automated-in-2020-to-save-me-hours-of-time-14510a1a17d0
 
 [Ethical Hacking]
 
 
 [Privacy]
-
+- https://github.com/letsblockit/letsblockit
 
 [Note-Taking]
 
@@ -42,6 +49,7 @@ This is now a staging area for the links as I parse through them, currently the 
 
 
 [Backups]
+- https://www.starwindsoftware.com/blog/vmware/3-2-1-backup-rule-data-will-always-survive/
 
 [Tech News]
 
@@ -71,7 +79,8 @@ This is now a staging area for the links as I parse through them, currently the 
 [Web Design]
 
 [Ethical Hacking]
-
+- https://github.com/warrant-dev/awesome-authorization
+- https://github.com/ChrisTheCoolHut/Zeratool
 
 [Getting Hired]
 
