@@ -38,3 +38,5 @@
 - https://github.com/TonyPhipps/Meerkat
 - https://github.com/Tib3rius/AutoRecon
 - https://wiki.theosintion.com/en/home
+- https://steflan-security.com/windows-privilege-escalation-cheat-sheet/
+- https://steflan-security.com/linux-privilege-escalation-checklist/
