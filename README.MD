@@ -76,7 +76,6 @@ This is now a staging area for the links as I parse through them, currently the 
 [Getting Hired]
 
 [Reverse Engineering]
-- https://wrongbaud.github.io/posts/stm-xbox-jtag/
 
 [Privilege Escalation]
 - https://steflan-security.com/windows-privilege-escalation-cheat-sheet/
