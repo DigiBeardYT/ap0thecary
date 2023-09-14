@@ -12,3 +12,6 @@
 - https://www.youtube.com/playlist?list=PL926EC0F1F93C1837
 - https://github.com/thibmaek/awesome-raspberry-pi
 - https://github.com/joeycastillo/The-Open-Book
+- https://docs.ibracorp.io/virtual-unraid/
+- https://what2log.com/
+- https://github.com/unreadablewxy/fs-curator
