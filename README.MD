@@ -69,7 +69,6 @@ This is now a staging area for the links as I parse through them, currently the 
 
 
 [Web Design]
-- https://github.com/WebDevsCom/webDevsCom
 
 [Ethical Hacking]
 - https://www.youtube.com/watch?v=D2t4ADQnBEk
