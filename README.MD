@@ -6,3 +6,9 @@ This is now a staging area for the links as I parse through them, currently the 
 
 [AI-Resources]  
 https://github.com/DigiBeardYT/ap0thecary/blob/main/ai-resources.md
+
+[Backups Resources]  
+https://github.com/DigiBeardYT/ap0thecary/blob/main/backup-resources.md
+
+[Bash]  
+https://github.com/DigiBeardYT/ap0thecary/blob/main/bash.md
