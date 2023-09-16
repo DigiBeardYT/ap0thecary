@@ -7,7 +7,6 @@ This is now a staging area for the links as I parse through them, currently the 
 [Python]
 
 [Bash]
-- https://google.github.io/styleguide/shellguide.html
 
 [Dot Files]
 
