@@ -32,7 +32,6 @@ This is now a staging area for the links as I parse through them, currently the 
 
 
 [Privacy]
-- https://github.com/letsblockit/letsblockit
 
 [Note-Taking]
 
