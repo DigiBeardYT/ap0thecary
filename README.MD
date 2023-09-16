@@ -13,7 +13,7 @@ https://github.com/DigiBeardYT/ap0thecary/blob/main/backup-resources.md
 [Bash]  
 https://github.com/DigiBeardYT/ap0thecary/blob/main/bash.md
 
-[Bug Bounty]
+[Bug Bounty]  
 https://github.com/DigiBeardYT/ap0thecary/blob/main/bug-bounty.md
 
 [Code Editing]  
