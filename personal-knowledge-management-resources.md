@@ -35,3 +35,5 @@
 - https://www.youtube.com/watch?v=OP3dA2GcAh8
 - https://fortelabs.com/blog/para/
 - https://medium.com/@stanschwartz/a-simple-zettelkasten-for-the-21st-century-e66a032550dc
+- https://untools.co/
+- https://anagora.org/index
