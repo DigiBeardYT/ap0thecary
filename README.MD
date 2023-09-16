@@ -73,8 +73,7 @@ This is now a staging area for the links as I parse through them, currently the 
 [Web Design]
 
 [Ethical Hacking]
-- https://github.com/warrant-dev/awesome-authorization
-- https://github.com/ChrisTheCoolHut/Zeratool
+
 
 [Getting Hired]
 
