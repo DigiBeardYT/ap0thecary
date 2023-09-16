@@ -4,5 +4,5 @@ As you’re browsing through my curated links, you might decide you want to visi
 
 This is now a staging area for the links as I parse through them, currently the links are split out across various markdown files. Soon this will point to all of them but that comes in the future.
 
-[AI-Resources]
-(https://github.com/DigiBeardYT/ap0thecary/blob/main/ai-resources.md)[https://github.com/DigiBeardYT/ap0thecary/blob/main/ai-resources.md]
+[AI-Resources] 
+(https://github.com/DigiBeardYT/ap0thecary/blob/main/ai-resources.md[https://github.com/DigiBeardYT/ap0thecary/blob/main/ai-resources.md])
