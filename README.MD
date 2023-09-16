@@ -30,3 +30,22 @@ https://github.com/DigiBeardYT/ap0thecary/blob/main/dfir-resources.md
 
 [Dot Files]  
 https://github.com/DigiBeardYT/ap0thecary/blob/main/dot-files.md
+
+[Emacs Resources]  
+https://github.com/DigiBeardYT/ap0thecary/blob/main/emacs-resources.md
+
+[Ethical Hacking Resources]  
+https://github.com/DigiBeardYT/ap0thecary/blob/main/ethical-hacking-resources.md
+
+[Games Programming]  
+https://github.com/DigiBeardYT/ap0thecary/blob/main/games-programming.md
+
+[General Computing]  
+https://github.com/DigiBeardYT/ap0thecary/blob/main/general-computing.md
+
+[Getting Hired]  
+https://github.com/DigiBeardYT/ap0thecary/blob/main/getting-hired.md
+
+[Git Resources]  
+https://github.com/DigiBeardYT/ap0thecary/blob/main/git-resources.md
+
