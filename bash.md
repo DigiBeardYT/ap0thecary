@@ -10,3 +10,4 @@
 - https://github.com/terror/present
 - https://github.com/onceupon/Bash-Oneliner
 - https://github.com/denisidoro/navi
+- https://google.github.io/styleguide/shellguide.html
