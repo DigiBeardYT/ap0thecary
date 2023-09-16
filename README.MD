@@ -18,7 +18,6 @@ This is now a staging area for the links as I parse through them, currently the 
 
 
 [Vi/Vim/Neovim]
-- https://framal.xyz/why-ive-spent-my-easter-break-customizing-neovim/
 
 [Haskell]
 
