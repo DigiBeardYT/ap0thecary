@@ -33,3 +33,5 @@ This is now a staging area for the links as I parse through them, currently the 
 [Getting Hired](https://github.com/DigiBeardYT/ap0thecary/blob/main/getting-hired.md)  
 
 [Git Resources](https://github.com/DigiBeardYT/ap0thecary/blob/main/git-resources.md)  
+
+[Getting Hired]
