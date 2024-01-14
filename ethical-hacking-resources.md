@@ -42,3 +42,6 @@
 - https://steflan-security.com/linux-privilege-escalation-checklist/
 - https://github.com/warrant-dev/awesome-authorization
 - https://github.com/ChrisTheCoolHut/Zeratool
+- https://github.com/lucsemassa/github_cves_search
+- https://github.com/freelabz/secator
+- 
