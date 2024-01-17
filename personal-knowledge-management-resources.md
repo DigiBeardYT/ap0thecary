@@ -38,3 +38,4 @@
 - https://untools.co/
 - https://anagora.org/index
 - https://github.com/bramses/bramses-highly-opinionated-vault-2023
+- https://github.com/nhaouari/obsidian-textgenerator-plugin
