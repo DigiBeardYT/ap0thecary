@@ -44,4 +44,5 @@
 - https://github.com/ChrisTheCoolHut/Zeratool
 - https://github.com/lucsemassa/github_cves_search
 - https://github.com/freelabz/secator
-- 
+- https://github.com/s0md3v/XSStrike
+- https://gbhackers-com.cdn.ampproject.org/c/s/gbhackers.com/sn1per/amp/
