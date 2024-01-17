@@ -16,3 +16,4 @@
 - https://what2log.com/
 - https://github.com/unreadablewxy/fs-curator
 - https://www.circuitvalley.com/2022/06/pensource-usb-c-industrial-camera-c-mount-fpga-imx-mipi-usb-3-crosslinknx.html
+- https://github.com/smartbutnot/flightportal/
