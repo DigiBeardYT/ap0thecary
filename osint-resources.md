@@ -10,3 +10,4 @@
 - https://map.malfrats.industries/
 - https://www.csoonline.com/article/567859/what-is-osint-top-open-source-intelligence-tools.html
 - https://www.youtube.com/watch?v=J4_rRn0cFew
+- https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607
