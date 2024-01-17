@@ -39,3 +39,4 @@
 - https://anagora.org/index
 - https://github.com/bramses/bramses-highly-opinionated-vault-2023
 - https://github.com/nhaouari/obsidian-textgenerator-plugin
+- http://www.adham-omran.com/2022/09/10/Reflections-On-A-Year-of-Anki-Knowledge-Management-Emacs-and-More.html
