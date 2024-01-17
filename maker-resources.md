@@ -18,3 +18,4 @@
 - https://www.circuitvalley.com/2022/06/pensource-usb-c-industrial-camera-c-mount-fpga-imx-mipi-usb-3-crosslinknx.html
 - https://github.com/smartbutnot/flightportal/
 - https://news.ycombinator.com/item?id=33869796
+- https://tylercipriani.com/blog/2022/10/17/whole-house-circadian-lighting-with-home-assistant/
