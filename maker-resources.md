@@ -19,3 +19,6 @@
 - https://github.com/smartbutnot/flightportal/
 - https://news.ycombinator.com/item?id=33869796
 - https://tylercipriani.com/blog/2022/10/17/whole-house-circadian-lighting-with-home-assistant/
+- https://teaandtechtime.com/pieca-a-raspberry-pi-camera-system-for-leica-m-mount-lenses/
+- https://novamostra.com/2022/10/23/byopm/
+- https://github.com/apenwarr/blip
