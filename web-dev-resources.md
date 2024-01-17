@@ -4,3 +4,4 @@
 - https://github.com/8483/notes
 - https://lucide.dev/
 - https://feathericons.com/
+- https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41
