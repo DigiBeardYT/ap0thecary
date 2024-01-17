@@ -3,3 +3,4 @@
 - https://github.com/WebDevsCom/webDevsCom
 - https://github.com/8483/notes
 - https://lucide.dev/
+- https://feathericons.com/
