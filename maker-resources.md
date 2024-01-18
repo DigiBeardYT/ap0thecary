@@ -26,3 +26,4 @@
 - https://www.instructables.com/Pi-Cam-a-Remote-Raspberry-Pi-DesktopCameraServer/
 - https://homebrewheadphones.com/3d-printed-bluetooth-headphones/
 - https://redd.it/wi98mn
+- http://www.nisker.net/projects/mobile-electronics-workbench/
