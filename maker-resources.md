@@ -23,3 +23,4 @@
 - https://novamostra.com/2022/10/23/byopm/
 - https://github.com/apenwarr/blip
 - http://www.kevsrobots.com/blog/pikon-camera.html
+- https://www.instructables.com/Pi-Cam-a-Remote-Raspberry-Pi-DesktopCameraServer/
