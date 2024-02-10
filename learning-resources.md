@@ -14,3 +14,4 @@
 - https://cybersecurityandgrowth.substack.com/p/your-free-cybersecurity-bundle
 - https://github.com/cloudcommunity/Free-Certifications
 - http://www.stephenzerfas.com/2022/01/the-under-discussed-benefits-of.html
+- https://news.ycombinator.com/item?id=33116230
