@@ -13,3 +13,4 @@
 - https://levelup.gitconnected.com/everything-i-automated-in-2020-to-save-me-hours-of-time-14510a1a17d0
 - https://cybersecurityandgrowth.substack.com/p/your-free-cybersecurity-bundle
 - https://github.com/cloudcommunity/Free-Certifications
+- http://www.stephenzerfas.com/2022/01/the-under-discussed-benefits-of.html
