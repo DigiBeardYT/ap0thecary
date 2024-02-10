@@ -6,3 +6,4 @@
 - https://lucidmanager.org/tags/emacs/
 - https://emacs.amodernist.com/
 - https://systemcrafters.net/emacs-from-scratch/basics-of-emacs-configuration/
+- https://github.com/vscode-org-mode/vscode-org-mode
