@@ -29,3 +29,4 @@
 - https://duckduckgo.com/download/Win10_Privacy_Tips.pdf
 - https://github.com/letsblockit/letsblockit
 - https://github.com/MrM8BRH/Privacy-Security-FOSS-Resources
+- https://technitium.com/dns/
