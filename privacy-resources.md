@@ -33,3 +33,4 @@
 - https://github.com/srikanth235/privy
 - https://fedi.tips/
 - https://researchbuzz.me/2022/11/05/a-big-list-of-mastodon-resources/
+- https://github.com/santiago-mooser/yubikey-provisioning-scripts
