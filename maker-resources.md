@@ -29,3 +29,4 @@
 - http://www.nisker.net/projects/mobile-electronics-workbench/
 - https://tinypilotkvm.com/
 - https://github.com/javaplus/PicoProjects
+- https://github.com/erdewit/HiFiScan
