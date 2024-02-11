@@ -31,3 +31,4 @@
 - https://github.com/javaplus/PicoProjects
 - https://github.com/erdewit/HiFiScan
 - https://github.com/meienberger/runtipi
+- https://github.com/AndrewEllis93/Print-Tuning-Guide
