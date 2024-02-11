@@ -41,3 +41,4 @@
 - https://github.com/nhaouari/obsidian-textgenerator-plugin
 - http://www.adham-omran.com/2022/09/10/Reflections-On-A-Year-of-Anki-Knowledge-Management-Emacs-and-More.html
 - https://writing.bobdoto.computer/what-is-a-fleeting-note/
+- https://github.com/AEchRod/Kindle-highlight-to-Word-document-script
