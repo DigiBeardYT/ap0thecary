@@ -32,3 +32,4 @@
 - https://github.com/erdewit/HiFiScan
 - https://github.com/meienberger/runtipi
 - https://github.com/AndrewEllis93/Print-Tuning-Guide
+- https://github.com/mikeroyal/Photogrammetry-Guide
