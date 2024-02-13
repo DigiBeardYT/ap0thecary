@@ -34,3 +34,4 @@
 - https://github.com/AndrewEllis93/Print-Tuning-Guide
 - https://github.com/mikeroyal/Photogrammetry-Guide
 - https://github.com/zilexa/Homeserver
+- https://www.instructables.com/SOLAR-POWERED-ARDUINO-WEATHER-STATION/
